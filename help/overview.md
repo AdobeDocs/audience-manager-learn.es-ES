@@ -9,9 +9,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
+source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,9 @@ ht-degree: 0%
 
 Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriales junto con el [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) le permitirá comprender mejor cómo utilizar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que utilice los mejores de su clase para Adobe [!DNL data management platform].
 
-* Consulte la **&quot;¿Qué hay de nuevo?&quot;** para conocer las últimas actualizaciones y características
 * **Selección de personal** resalta algunos de nuestros contenidos favoritos
 * Explore el contenido por tema y subtema en la **navegación izquierda**
 * Utilice el **búsqueda** en la parte superior de la página si sabe lo que está buscando
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
