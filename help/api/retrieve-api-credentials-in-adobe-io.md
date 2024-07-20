@@ -1,6 +1,6 @@
 ---
 title: Recuperación de credenciales de API en Adobe Developer
-description: En lugar de ponerse en contacto con la asesoría de Adobe o con el Servicio de atención al cliente para obtener las credenciales de uso de la API de REST, solo tiene que visitar developer.adobe.com en un explorador y recuperar o registrar sus propias credenciales.
+description: En lugar de ponerse en contacto con Adobe Consulting o con el Servicio de atención al cliente para obtener las credenciales de uso de la API de REST, solo tiene que visitar developer.adobe.com en un navegador y recuperar o registrar sus propias credenciales.
 feature: API
 topics: null
 activity: develop
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Recuperación de credenciales de API en [!DNL Adobe Developer]
+# Recuperar credenciales de API en [!DNL Adobe Developer]
 
-En lugar de ponerse en contacto con la asesoría de Adobe o con el Servicio de atención al cliente para obtener las credenciales de uso de la API de REST, solo tiene que visitar developer.adobe.com en un explorador y recuperar o registrar sus propias credenciales.
+En lugar de ponerse en contacto con Adobe Consulting o con el Servicio de atención al cliente para obtener las credenciales de uso de la API de REST, solo tiene que visitar developer.adobe.com en un navegador y recuperar o registrar sus propias credenciales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Cómo un DMP puede cambiar su negocio
 
-[!DNL Data Management Platforms] ahora mismo se habla del mundo tecnológico, pero ¿cuáles son y, lo que es más importante, cómo pueden ayudarle a usted, como especialistas en marketing, a lograr sus objetivos?
+[!DNL Data Management Platforms] son la comidilla del mundo tecnológico en este momento, pero ¿cuáles son y, lo que es más importante, cómo pueden ayudarle a usted, como especialistas en marketing, a lograr sus objetivos?
 
 Durante esta sesión explicaremos lo que es un DMP y mostraremos algunos casos prácticos del mundo real en los que los clientes han visto rendimientos sorprendentes en su inversión, desde compras de medios más eficientes hasta conversiones significativamente mayores.
 

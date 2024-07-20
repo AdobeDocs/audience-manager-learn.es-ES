@@ -13,7 +13,7 @@ level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Al llevar el origen al Audience Manager para comprender mejor a su cliente y ori
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Para ver un vídeo sobre la asignación de nombres e importación de archivos, haga clic en [AQUÍ](steps-for-ingesting-file-based-data.md).
+Para ver un vídeo sobre cómo nombrar e importar archivos, haga clic [AQUÍ](steps-for-ingesting-file-based-data.md).
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

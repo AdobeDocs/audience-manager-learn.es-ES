@@ -1,5 +1,5 @@
 ---
-title: Configuración de la caducidad de rasgos con [!UICONTROL Time-to-Live] (TTL)
+title: Configurar la caducidad de rasgos con [!UICONTROL Time-to-Live] (TTL)
 description: Obtenga información sobre cómo buscar y establecer [!UICONTROL Time to Live] (TTL) en Audience Manager. Utilice esta configuración al crear características, que establece una caducidad de la pertenencia a la característica si un usuario no vuelve a calificar en el período de tiempo especificado.
 feature: Traits
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Configuración de la caducidad de rasgos con [!UICONTROL Time-to-Live] (TTL)
+# Configurar la caducidad de rasgos con [!UICONTROL Time-to-Live] (TTL)
 
-Uno de los ajustes al crear rasgos es el [!UICONTROL Time to Live] Configuración de (TTL), que es una caducidad de la pertenencia al rasgo si no vuelve a calificar en el período de tiempo especificado. Este vídeo muestra cómo ver y establecer esta función.
+Una de las opciones al crear características es la configuración [!UICONTROL Time to Live] (TTL), que es una caducidad de la pertenencia a la característica si no vuelve a calificar en el período de tiempo especificado. Este vídeo muestra cómo ver y establecer esta función.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

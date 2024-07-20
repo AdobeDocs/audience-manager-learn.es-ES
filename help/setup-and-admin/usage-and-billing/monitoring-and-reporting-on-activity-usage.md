@@ -13,14 +13,14 @@ level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Monitorización e informes sobre el uso de la actividad
 
-En este vídeo, explicaremos cómo utilizar la variable [!UICONTROL Activity Usage Report], incluidas las opciones de visualización y descarga.
+En este vídeo, explicaremos cómo usar [!UICONTROL Activity Usage Report], incluidas las opciones de visualización y descarga.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

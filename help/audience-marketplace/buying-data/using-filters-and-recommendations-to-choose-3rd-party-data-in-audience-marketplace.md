@@ -13,14 +13,14 @@ level: Beginner
 exl-id: b59c82a0-4dd5-44d7-8309-aded26dd494e
 source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Utilice filtros y recomendaciones para elegir datos de terceros en [!UICONTROL Audience Marketplace]
+# Use filtros y recomendaciones para elegir datos de terceros en [!UICONTROL Audience Marketplace]
 
-Este vídeo muestra los filtros y las opciones de recomendaciones de la [!UICONTROL Audience Marketplace] para ayudarle a elegir el proveedor de datos de terceros adecuado según sus necesidades.
+Este vídeo muestra las opciones de filtros y recomendaciones de [!UICONTROL Audience Marketplace] para ayudarle a elegir el proveedor de datos de terceros adecuado según sus necesidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Uso [!UICONTROL Profile Merge Rules] para la extensión del dispositivo y un mayor alcance
+# Usar [!UICONTROL Profile Merge Rules] para la extensión del dispositivo y el alcance aumentado
 
-Uso [!UICONTROL Profile Merge Rules] ampliar el alcance a todos los dispositivos de un usuario para que pueda comercializar con personas en lugar de con dispositivos.
+Use [!UICONTROL Profile Merge Rules] para ampliar el alcance a todos los dispositivos de un usuario, de modo que pueda comercializar con personas en lugar de con dispositivos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

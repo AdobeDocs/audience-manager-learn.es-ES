@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Ingesta de PII con hash para destinos basados en personas
 
-En este vídeo, aprenderá a dar formato a una sincronización de ID basada en archivos para conectar sus ID de cliente (ID de CRM) con direcciones de correo electrónico con hash. Esto le permite enviar las direcciones de correo electrónico con hash a destinos basados en personas, como [!DNL Facebook].
+En este vídeo, aprenderá a dar formato a una sincronización de ID basada en archivos para conectar sus ID de cliente (ID de CRM) con direcciones de correo electrónico con hash. Esto le permitirá enviar las direcciones de correo electrónico con hash a destinos basados en personas, como [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

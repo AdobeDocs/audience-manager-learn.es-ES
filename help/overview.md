@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Tutoriales de Audience Manager
 
-Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriales junto con el [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) le permitirá comprender mejor cómo utilizar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que utilice los mejores de su clase para Adobe [!DNL data management platform].
+Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriales junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) le permitirá comprender mejor cómo usar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que use [!DNL data management platform], la mejor herramienta de Adobe.
 
-* **Selección de personal** resalta algunos de nuestros contenidos favoritos
+* **Selección de personal** destaca algunos de nuestros contenidos favoritos
 * Explore el contenido por tema y subtema en la **navegación izquierda**
-* Utilice el **búsqueda** en la parte superior de la página si sabe lo que está buscando
+* Utilice el campo **search** en la parte superior de la página si sabe lo que está buscando
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,7 +43,7 @@ Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriale
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=es">
-    <strong>Tutorial de implementación de Adobe Experience Cloud con SDK web</strong>
+    <strong>Implementar Adobe Experience Cloud con tutorial de SDK web</strong>
     </a>
     </div>
     <p>
@@ -56,7 +56,7 @@ Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriale
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-    <strong>Explicación de los segmentos de CDP en tiempo real para usuarios de Audience Manager</strong>
+    <strong>Explicación de los segmentos de CDP en tiempo real para usuarios Audience Manager</strong>
     </a>
     </div>
     <p>
@@ -69,7 +69,7 @@ Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriale
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Configuración e informes de Predictive Audiences en Audience Manager</strong>
+    <strong>Configurar e informar sobre Audiencias predictivas en el Audience Manager</strong>
     </a>
     </div>
     <p>

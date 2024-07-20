@@ -12,12 +12,12 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge] - vídeos y tutoriales
+# [!UICONTROL Profile Merge]: vídeos y tutoriales
 
 Vea los vídeos y tutoriales sobre las funciones de combinación de perfiles, incluidas las reglas de combinación de perfiles. Obtenga control sobre los conjuntos de datos utilizados para la segmentación y diríjase a una persona con precisión en varios dispositivos.
 
@@ -32,4 +32,4 @@ Vea los vídeos y tutoriales sobre las funciones de combinación de perfiles, in
 * [Interpretación de informes de identidad de audiencia](interpret-audience-identity-reporting.md)
 * [Comprensión de las métricas entre dispositivos en Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Estos vídeos se pueden usar junto con el [Documentación de reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Estos vídeos se pueden usar junto con la [documentación de reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

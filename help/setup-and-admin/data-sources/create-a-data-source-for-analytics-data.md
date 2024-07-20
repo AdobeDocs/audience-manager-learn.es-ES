@@ -1,5 +1,5 @@
 ---
-title: Crear una fuente de datos para datos de Analytics
+title: Crear un Source de datos para datos de Analytics
 description: Aprenda a crear una fuente de datos para los datos que se activan desde una solución de análisis, como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
 landing-page-description: Aprenda a crear una fuente de datos para los datos que se activan desde una solución de análisis, como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
 short-description: Aprenda a crear una fuente de datos para los datos que se activan desde una solución de análisis, como Adobe Analytics. Haga esto antes de crear características para los datos de análisis.
@@ -16,8 +16,8 @@ ht-degree: 68%
 
 ---
 
-# Crear un [!UICONTROL Data Source] para [!DNL Analytics] Datos {#create-a-data-source-for-analytics-data}
+# Crear un(a) [!UICONTROL Data Source] para [!DNL Analytics] datos {#create-a-data-source-for-analytics-data}
 
-En este vídeo explicamos los pasos, incluidos consejos y trucos, de la creación de un [!UICONTROL Data Source] en Audience Manager, que puede utilizar para los datos que se activan desde una solución de análisis como Adobe Analytics. Esto debe hacerse antes de crear rasgos para los datos de análisis.
+En este vídeo explicamos los pasos, incluidos consejos y trucos, de la creación de un [!UICONTROL Data Source] en Audience Manager que puede utilizar para los datos que llegan en tiempo real desde una solución de análisis como Adobe Analytics. Esto debe hacerse antes de crear rasgos para los datos de análisis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

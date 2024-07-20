@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] mejoras: requisitos previos
 
-Una visión general de cómo prepararse mejor para la publicación de [!UICONTROL Profile Merge Rule] mejoras.
+Información general sobre la mejor preparación para la versión de [!UICONTROL Profile Merge Rule] mejoras.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

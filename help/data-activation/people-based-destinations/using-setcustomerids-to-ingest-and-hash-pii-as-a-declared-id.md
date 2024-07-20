@@ -13,14 +13,14 @@ level: Beginner
 exl-id: 9cc3e0f6-cf68-4048-a34c-513b77777aa2
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # Use setCustomerIDs() para introducir y hash PII como ID declarado
 
-En este vídeo, aprenderá por qué y cómo utilizar el servicio de ID de Experience Cloud `setCustomerIDs()` para introducir y hash una dirección de correo electrónico y utilizarla como ID declarado. Esto no solo vincula el ID de CRM y la dirección de correo electrónico, sino que también los sincroniza con el UUID de Adobe Audience Manager, por ejemplo, el ID de dispositivo anónimo. Estas direcciones de correo electrónico con hash se pueden enviar a People-Based Destinations.
+En este vídeo, aprenderá por qué y cómo utilizar el método del servicio de ID de Experience Cloud `setCustomerIDs()` para introducir y hash una dirección de correo electrónico y utilizarla como ID declarado. Esto no solo vincula el ID de CRM y la dirección de correo electrónico, sino que también los sincroniza con el UUID de Adobe Audience Manager, por ejemplo, el ID de dispositivo anónimo. Estas direcciones de correo electrónico con hash se pueden enviar a People-Based Destinations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 

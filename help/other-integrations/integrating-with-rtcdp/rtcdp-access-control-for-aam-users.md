@@ -11,7 +11,7 @@ kt: 7304
 exl-id: 27e8887b-6e02-452a-8526-ab235446505d
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -26,5 +26,5 @@ Al pasar de Audience Manager a Real-time Customer Data Platform, querrá saber d
 
 A continuación, se muestran los recursos existentes que pueden ayudarle a obtener más información sobre Real-time Customer Data Platform.
 
-* [Información general de control de acceso](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [Configuración de permisos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [Resumen de control de acceso](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
+* [Configurar permisos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)

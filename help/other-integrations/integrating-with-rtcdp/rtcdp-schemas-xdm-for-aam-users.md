@@ -11,7 +11,7 @@ kt: 7272
 exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,6 @@ A medida que pase de Audience Manager a Real-time Customer Data Platform (CDP en
 
 A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener más información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
 
-* [Explicación del modelo de datos de Experience y del sistema XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
-* [Creación de esquemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [Creación de un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Explicación del sistema XDM y del modelo de datos de Experience](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+* [Crear esquemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

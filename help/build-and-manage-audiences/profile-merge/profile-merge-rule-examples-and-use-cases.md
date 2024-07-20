@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] Ejemplos y casos de uso
+# [!UICONTROL Profile Merge Rule] ejemplos y casos de uso
 
-En este vídeo verá ejemplos de [!UICONTROL Profile Merge Rules] y lo que significan, así como los casos de uso que [!UICONTROL Profile Merge Rules] resolver.
+En este vídeo verá ejemplos de [!UICONTROL Profile Merge Rules] y lo que significan, así como los casos de uso que [!UICONTROL Profile Merge Rules] resuelve.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

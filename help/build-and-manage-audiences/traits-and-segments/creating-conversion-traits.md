@@ -26,6 +26,6 @@ Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, ap
 
 ¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. AAM En cualquier caso, es habitual en los visitantes crear rasgos para los visitantes que cumplen con esos criterios.
 
-AAM En la práctica, hay un campo en el que puede marcar el rasgo como un rasgo de conversión, especialmente para su uso en [!UICONTROL Audience Lab].
+AAM En el campo, hay un campo en el que puede marcar su rasgo como un rasgo de conversión, especialmente para usarlo en [!UICONTROL Audience Lab].
 
 Además, cuando se utilizan eventos para crear características, hay una clave importante que debe tenerse en cuenta para que no se recopilen más usuarios de los que deberían en la característica. Mira este video para la gran revelación.

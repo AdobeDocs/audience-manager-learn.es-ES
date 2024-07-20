@@ -13,14 +13,14 @@ level: Beginner
 exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
 source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # Sugerencias para clientes: prácticas recomendadas sobre características y segmentos
 
-**Matt Vittorioso**, especialista en marketing sénior de **[!DNL Ally Financial]**, ofrece sugerencias para administrar características y segmentos.
+**Matt Vittorioso**, especialista en mercadotecnia de **[!DNL Ally Financial]**, ofrece sugerencias para administrar características y segmentos.
 
 Matt Vittorioso es especialista en mercadotecnia en el equipo de mercadotecnia digital de Ally Financial. Dirige el equipo de segmentación digital y se encarga de todos los datos que entran y salen de audience manager. Matt trabaja estrechamente con todas las partes interesadas internas y socios de agencias externas para garantizar que se construyan los segmentos adecuados para todas las campañas de Ally. Las sugerencias incluyen temas como:
 
@@ -28,4 +28,4 @@ Matt Vittorioso es especialista en mercadotecnia en el equipo de mercadotecnia d
 * Uso de la funcionalidad predeterminada
 * Revisión periódica de rasgos y segmentos
 
-[Lea los consejos de Matt en la Comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Leer los consejos de Matt en la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
