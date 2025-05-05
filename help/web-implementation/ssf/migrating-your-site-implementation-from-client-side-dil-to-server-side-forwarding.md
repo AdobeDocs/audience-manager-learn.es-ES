@@ -74,7 +74,7 @@ Los siguientes pasos describen la implementación.
 
 El requisito previo principal para pasar al reenvío del lado del servidor es tener implementado el servicio de ID de Experience Cloud. Esto se hace más fácilmente si utiliza Experience Platform Launch, en cuyo caso solo tiene que instalar la extensión ECID y hará el resto.
 
-Si usa un sistema de administración de etiquetas que no es de Adobe o no lo usa, implemente ECID para ejecutar **antes** de cualquier otra solución de Adobe. Consulte la [documentación de ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) para obtener más información. El único otro requisito previo es con respecto a las versiones del código, por lo que al aplicar las versiones más recientes del código en los siguientes pasos, estará bien.
+Si usa un sistema de administración de etiquetas que no es de Adobe o no lo usa, implemente ECID para ejecutar **antes** de cualquier otra solución de Adobe. Consulte la [documentación de ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) para obtener más información. El único otro requisito previo es con respecto a las versiones del código, por lo que al aplicar las versiones más recientes del código en los siguientes pasos, estará bien.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Si no reenvía datos del lado del servidor de [!DNL Analytics] al Audience Manag
 
 ![falso éxito](assets/falsesuccess.png)
 
-Para obtener más información acerca del reenvío del lado del servidor, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Para obtener más información acerca del reenvío del lado del servidor, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=es).

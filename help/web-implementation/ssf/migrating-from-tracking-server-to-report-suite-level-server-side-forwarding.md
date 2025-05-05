@@ -40,7 +40,7 @@ Si no está seguro de si [!DNL tracking server forwarding] está habilitado para
 
 ## Reenvío del lado del servidor de nivel [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Una de las mayores ventajas de pasar al reenvío de [!UICONTROL report suite] desde el reenvío de [!UICONTROL tracking server] es que ahora podrá usar &quot;Audience Analytics&quot;, que es la capacidad de reenviar al Audience Manager [!UICONTROL segments] de nuevo a Adobe Analytics para un análisis detallado del segmento. Esta excelente característica NO se admite si sigue reenviando [!UICONTROL tracking server] y no [!UICONTROL report suite]. Vea más información sobre el Audience Analytics en [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Una de las mayores ventajas de pasar al reenvío de [!UICONTROL report suite] desde el reenvío de [!UICONTROL tracking server] es que ahora podrá usar &quot;Audience Analytics&quot;, que es la capacidad de reenviar al Audience Manager [!UICONTROL segments] de nuevo a Adobe Analytics para un análisis detallado del segmento. Esta excelente característica NO se admite si sigue reenviando [!UICONTROL tracking server] y no [!UICONTROL report suite]. Vea más información sobre el Audience Analytics en [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

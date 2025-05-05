@@ -26,4 +26,4 @@ Este vídeo muestra cómo crear rasgos retroactivos, como los que rellenan los d
 
 Hasta ahora, cuando se creaban características, solo se recopilaban datos al avanzar. Esto significaba que tenía que crear muchos rasgos en caso de que recibieran tráfico o datos. Ahora puede esperar a ver qué pares clave/valor reciben datos y, a continuación, crear un rasgo y rellenar los datos en ese rasgo. Esto le ahorra tiempo y energía, y también le ayuda a mantener la taxonomía de características restringidas, en lugar de tener varias características que no tienen datos.
 
-Para obtener más información acerca de [!DNL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Para obtener más información acerca de [!DNL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/es_ES/aam/data-explorer.html).

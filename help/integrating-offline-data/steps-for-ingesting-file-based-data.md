@@ -26,4 +26,4 @@ En este vídeo, aprenderá los pasos a seguir a medida que incorpore datos sin c
 
 Para ver un vídeo sobre el formato de datos de los archivos de entrada, haga clic [AQUÍ](formatting-and-ingesting-file-based-data.md).
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=es).

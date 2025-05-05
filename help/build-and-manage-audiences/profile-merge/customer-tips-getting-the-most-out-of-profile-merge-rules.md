@@ -28,4 +28,4 @@ Varun Kalra es un consultor de soluciones múltiples que trabaja en un partner d
 * Profundización en un caso de uso de segmentación
 * Casos de uso para varias configuraciones de PMR
 
-[Leer los consejos de Varun en la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Leer los consejos de Varun en la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=es)

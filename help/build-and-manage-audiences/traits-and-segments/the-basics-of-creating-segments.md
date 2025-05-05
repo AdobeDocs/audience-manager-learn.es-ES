@@ -24,4 +24,4 @@ Consulte los campos de la interfaz de usuario para crear un segmento en Audience
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Para obtener más información sobre los segmentos, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Para obtener más información sobre los segmentos, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=es).

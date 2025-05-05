@@ -21,4 +21,4 @@ Este vídeo lo acompaña a través de la interfaz [!UICONTROL Destination], most
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Para obtener más información, visite [Audiencias disponibles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) en la documentación del producto.
+Para obtener más información, visite [Audiencias disponibles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=es) en la documentación del producto.

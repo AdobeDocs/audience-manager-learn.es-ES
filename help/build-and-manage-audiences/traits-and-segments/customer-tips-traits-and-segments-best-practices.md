@@ -28,4 +28,4 @@ Matt Vittorioso es especialista en mercadotecnia en el equipo de mercadotecnia d
 * Uso de la funcionalidad predeterminada
 * Revisión periódica de rasgos y segmentos
 
-[Leer los consejos de Matt en la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Leer los consejos de Matt en la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=es)

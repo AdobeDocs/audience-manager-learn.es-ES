@@ -26,6 +26,6 @@ Este vídeo muestra a los usuarios Audience Manager los conceptos relativos a la
 
 A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener más información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
 
-* [Ingesta de datos mediante el conector de datos de Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Tutorials de SDK web de Adobe Experience Platform](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Ingesta de datos mediante el conector de datos de Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=es#sources)
+* [Tutorials de SDK web de Adobe Experience Platform](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=es)
+* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=es#getting-started)

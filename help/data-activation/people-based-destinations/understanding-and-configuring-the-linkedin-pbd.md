@@ -24,6 +24,6 @@ Este vídeo lo acompaña durante los conceptos y pasos para crear un(a) [!UICONT
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=es).
 
 También puede encontrar videos adicionales relacionados con People-Based Destinations [AQUÍ](https://adobe.ly/aamlearnpbd).

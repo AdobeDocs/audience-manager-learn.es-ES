@@ -33,4 +33,4 @@ Esta sección contiene vídeos y tutoriales sobre temas relacionados con People-
 * [Crear y configurar destinos basados en personas](create-and-configure-people-based-destinations.md)
 * [Explicación y configuración del destino basado en personas de LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Estos vídeos se pueden usar junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Estos vídeos se pueden usar junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=es).

@@ -23,4 +23,4 @@ Audience Manager proporciona capacidad de autoservicio en la interfaz de usuario
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Para obtener más información acerca de esta característica, visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Para obtener más información acerca de esta característica, visite la [documentación](https://experiencecloud.adobe.com/resources/help/es_ES/aam/ip-obfuscation.html).

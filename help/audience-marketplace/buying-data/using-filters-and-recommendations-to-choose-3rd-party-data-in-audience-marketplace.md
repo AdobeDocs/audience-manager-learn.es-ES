@@ -24,4 +24,4 @@ Este vídeo muestra las opciones de filtros y recomendaciones de [!UICONTROL Aud
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=es).
