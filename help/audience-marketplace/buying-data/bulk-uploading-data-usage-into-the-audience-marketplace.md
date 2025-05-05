@@ -22,7 +22,7 @@ ht-degree: 0%
 
 A medida que informe del uso de datos de segundo nivel y de terceros en [!UICONTROL Audience Marketplace], es posible que tenga suficientes entradas para saber que no desea hacerlo a mano. En este vídeo, aprenderá a utilizar la herramienta de carga masiva de informes de uso de datos. Esta herramienta le permite informar fácilmente sobre su uso de datos, incluso si tiene muchos elementos que actualizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33683/?quality=12&captions=spa)
 
 Además de tener esta herramienta de carga masiva para simplificar y ahorrar tiempo al crear informes sobre el uso de los datos, los clientes que compren datos de segundo nivel o de terceros de [!UICONTROL Audience Marketplace] se benefician de una directiva de atribución de costos mejorada. Esta nueva política atribuye los costes a los proveedores de datos en función de los recuentos de usuarios únicos de las características de un segmento basado en reglas, lo que da como resultado una mayor transparencia y una facturación de uso equitativa.
 Encontrará más detalles sobre el algoritmo de facturación en [Atribución de costos para fuentes de datos de CPM](https://experiencecloud.adobe.com/resources/help/es_ES/aam/marketplace_cpm_billing.html) en la documentación del producto.

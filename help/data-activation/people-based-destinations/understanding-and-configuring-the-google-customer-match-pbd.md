@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo le explica los detalles y casos de uso del destino de Google Customer Match basado en personas e incluye una explicación detallada de cómo crear un segmento y asignarlo a un destino. También muestra el aterrizaje de la audiencia en Google Ad Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326466/?quality=12&learn=on&captions=spa)

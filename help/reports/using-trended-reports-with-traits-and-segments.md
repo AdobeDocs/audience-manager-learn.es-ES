@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Aprenda a utilizar los informes de tendencias en Audience Manager para ver el rendimiento de las características y los segmentos con el paso del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340797/?quality=12&learn=on&captions=spa)

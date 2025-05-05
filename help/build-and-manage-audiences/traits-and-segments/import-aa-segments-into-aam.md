@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Además de reenviar datos en tiempo real de Adobe Analytics a Audience Manager, también puede importar segmentos que incluyan datos posteriores al procesamiento de Analytics a Audience Manager a través del Experience Cloud. Se trata de una potente función de la que ningún otro DMP puede alardear.
 
->[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344718/?quality=12&learn=on&captions=spa)

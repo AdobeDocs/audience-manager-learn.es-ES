@@ -19,7 +19,7 @@ ht-degree: 0%
 
 DSP AAM En este vídeo explicamos la creación de una prueba de [!UICONTROL Audience Lab], para que pueda realizar pruebas A/B o cualquier otro destino de la prueba para ver cuál genera la mejor rentabilidad en términos de gasto en publicidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328095/?quality=12&captions=spa)
 
 Crear una prueba de [!UICONTROL Audience Lab] es fácil y se puede hacer en solo unos minutos, como se muestra en el vídeo anterior. A medida que avance en los pasos de la interfaz, configurará lo siguiente:
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 En este vídeo aprenderá a crear un modelo de similitud de origen para que pueda encontrar más visitantes propios que se parezcan a sus convertidores.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328111/?quality=12&captions=spa)
 
 Los casos de uso para esto incluyen:
 

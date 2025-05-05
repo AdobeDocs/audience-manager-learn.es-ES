@@ -56,7 +56,7 @@ Si va al sitio de demostración mencionado anteriormente y mira el origen de la 
 * La capa de datos se encuentra en el encabezado de la página, antes de la llamada a las etiquetas de Platform
 * El JavaScript SPA en el vínculo de simulado cambia [!UICONTROL Data Layer] y, a continuación, llama a las etiquetas de Platform (la llamada `_satellite.track()`). Si utilizaba eventos personalizados de JavaScript en lugar de este(a) [!UICONTROL Direct Call Rule], la lección es la misma. Primero cambie [!DNL data layer] y luego llame a las etiquetas de Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38110/?quality=12&captions=spa)
 
 ## Recursos adicionales {#additional-resources}
 

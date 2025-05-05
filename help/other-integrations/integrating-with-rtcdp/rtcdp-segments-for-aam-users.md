@@ -20,7 +20,7 @@ ht-degree: 1%
 
 A medida que pasa de Audience Manager a Real-time Customer Data Platform, resulta útil comprender las diferencias en los conceptos. Este vídeo analiza las diferencias en la creación de segmentos y segmentos entre CDP en tiempo real y Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347029/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

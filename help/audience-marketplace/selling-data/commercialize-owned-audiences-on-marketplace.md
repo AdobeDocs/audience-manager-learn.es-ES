@@ -22,4 +22,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a configurar los datos como una fuente de datos pública o privada en el Audience Marketplace, lo que lo convierte en un proveedor de datos de segundo nivel o de terceros.
 
->[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410859/?quality=12&learn=on&captions=spa)

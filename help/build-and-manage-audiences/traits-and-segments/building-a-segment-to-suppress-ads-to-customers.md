@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Al crear campañas de marketing, especialmente las campañas de extensión de alcance y de extensión de audiencia, es posible que desee excluir a los clientes actuales para poder comercializarlos de una manera diferente. En este vídeo se describen las opciones para crear segmentos con el fin de excluir a los que ya se han convertido al estado de cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41314/?quality=12&learn=on&captions=spa)

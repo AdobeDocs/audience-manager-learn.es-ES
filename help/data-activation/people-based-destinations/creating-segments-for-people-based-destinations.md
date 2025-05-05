@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo lo acompaña durante la creación de un segmento en Audience Manager para utilizarlo en People-Based Destinations.
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31624/?quality=12&captions=spa)

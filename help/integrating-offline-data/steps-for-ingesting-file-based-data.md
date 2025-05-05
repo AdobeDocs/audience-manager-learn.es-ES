@@ -22,7 +22,7 @@ ht-degree: 0%
 
 En este vídeo, aprenderá los pasos a seguir a medida que incorpore datos sin conexión en Audience Manager, incluidos los requisitos de nombre de archivo para el archivo de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346194/?quality=12&learn=on&captions=spa)
 
 Para ver un vídeo sobre el formato de datos de los archivos de entrada, haga clic [AQUÍ](formatting-and-ingesting-file-based-data.md).
 

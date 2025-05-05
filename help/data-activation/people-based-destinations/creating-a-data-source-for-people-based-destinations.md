@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo lo acompaña en la creación de un Audience Manager [!UICONTROL Data Source] en para utilizarlo en People-Based Destinations.
 
->[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32174/?quality=12&captions=spa)

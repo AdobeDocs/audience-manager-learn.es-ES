@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Aprenda a utilizar la vista de código al crear nuevas características o al editar las existentes. La vista de código es una alternativa al Generador de expresiones al establecer la expresión de características.
 
->[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330140/?quality=12&learn=on&captions=spa)

@@ -28,4 +28,4 @@ Se destacan los siguientes casos de uso:
 * Implementar mediante un administrador de etiquetas que no sea de Adobe al utilizar Adobe Analytics
 * Implementar mediante un administrador de etiquetas que no sea de Adobe cuando no se utilice Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33581/?quality=12&captions=spa)

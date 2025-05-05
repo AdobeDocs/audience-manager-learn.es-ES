@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Al llevar el origen al Audience Manager para comprender mejor a su cliente y orientarse a él, existen ciertos requisitos de formato para los datos. Este vídeo repasa algunas de las opciones principales y muestra dónde obtener más información.
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346203/?quality=12&learn=on&captions=spa)
 
 Para ver un vídeo sobre cómo nombrar e importar archivos, haga clic [AQUÍ](steps-for-ingesting-file-based-data.md).
 

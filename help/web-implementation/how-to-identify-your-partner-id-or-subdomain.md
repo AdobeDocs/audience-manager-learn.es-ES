@@ -31,7 +31,7 @@ En caso de que prefiera saltar y encontrarlo sin ver este breve vídeo, puede en
 
 Si no puede encontrarlo rápidamente con esas referencias rápidas, el vídeo es una asignación de tiempo breve. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40890/?quality=12&captions=spa)
 
 >[!IMPORTANT]
 >

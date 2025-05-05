@@ -20,7 +20,7 @@ ht-degree: 1%
 
 A medida que pase de Audience Manager a Real-time Customer Data Platform (CDP en tiempo real), encontrará algunos conceptos y prácticas nuevos. Los esquemas y XDM entran dentro de esa categoría. Este vídeo explica estos conceptos.
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410353/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 
