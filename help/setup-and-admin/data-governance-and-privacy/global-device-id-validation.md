@@ -23,14 +23,14 @@ Los identificadores Advertising de dispositivos (es decir, iDFA, GAID, Roku ID) 
 
 ## Descripción general de los estándares de formato {#overview-of-format-standards}
 
-A continuación se muestran los grupos de ID de Device Advertising AAM globales que actualmente reconoce y admite el servicio de ID de dispositivos de la aplicación de la aplicación de la aplicación de la aplicación de la aplicación de la aplicación de la aplicación de ID de la aplicación de la aplicación de la. Se implementaron como [!UICONTROL Data Sources] compartidos que cualquier cliente o socio de datos que trabaje con datos vinculados a usuarios de estas plataformas puede usar.
+A continuación se muestran los grupos globales de ID de Device Advertising que AAM reconoce y admite actualmente. Se implementaron como [!UICONTROL Data Sources] compartidos que cualquier cliente o socio de datos que trabaje con datos vinculados a usuarios de estas plataformas puede usar.
 
 <table>
   <tr>
    <td>Plataforma </td>
-   <td>AAM ID de Source de datos </td>
+   <td>ID de AAM Data Source </td>
    <td>Formato de ID </td>
-   <td>AAM ID de PID </td>
+   <td>AAM PID </td>
    <td>Notas </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ A continuación se muestran los grupos de ID de Device Advertising AAM globales 
   <tr>
    <td>Microsoft Advertising ID (MAID)</td>
    <td>389146</td>
-   <td>cadena numérica de Alpha</td>
+   <td>Cadena numérica de Alpha</td>
    <td>14593</td>
    <td>Este identificador debe recopilarse en una referencia de formulario sin procesar, sin hash ni modificar: <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
   </tr>
@@ -72,12 +72,12 @@ A continuación se muestran los grupos de ID de Device Advertising AAM globales 
 
 ## Configuración de un identificador de Advertising en la aplicación {#setting-an-advertising-identifier-in-the-app}
 
-La configuración del ID del anunciante en la aplicación es un proceso de dos pasos: primero, recuperar el ID del anunciante y, a continuación, enviarlo al Experience Cloud. A continuación, se encuentran vínculos para realizar estos pasos.
+La configuración del ID del anunciante en la aplicación es un proceso de dos pasos: primero, recuperar el ID del anunciante y, a continuación, enviarlo a Experience Cloud. A continuación, se encuentran vínculos para realizar estos pasos.
 
 1. Recuperación del ID
    1. Se puede encontrar [!DNL Apple] información sobre [!DNL advertising ID] [AQUÍ](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
    1. Encontrará información sobre cómo establecer [!DNL advertiser ID] para los desarrolladores de [!DNL Android] [AQUÍ](http://android.cn-mirrors.com/google/play-services/id.html).
-1. Enviarlo al Experience Cloud mediante el método [!DNL setAdvertisingIdentifier] en el SDK
+1. Enviarlo a Experience Cloud mediante el método [!DNL setAdvertisingIdentifier] en SDK
    1. La información para usar `setAdvertisingIdentifier` se encuentra en la [documentación](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) para [!DNL iOS] y [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
@@ -85,17 +85,17 @@ La configuración del ID del anunciante en la aplicación es un proceso de dos p
 
 ## Mensajería de error de DCS para ID incorrectos  {#dcs-error-messaging-for-incorrect-ids}
 
-Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en tiempo real al Audience Manager, se devuelve un código de error en la visita. A continuación se muestra un ejemplo de un error devuelto porque el ID se envía como [!DNL Apple IDFA], que solo debe contener letras mayúsculas y sin embargo hay una &quot;x&quot; minúscula en el ID.
+Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en tiempo real a Audience Manager, se devuelve un código de error en la visita. A continuación se muestra un ejemplo de un error devuelto porque el ID se envía como [!DNL Apple IDFA], que solo debe contener letras mayúsculas y sin embargo hay una &quot;x&quot; minúscula en el ID.
 
 ![imagen de error](assets/image_4_.png)
 
-Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=es#api-and-sdk-code) para obtener la lista de códigos de error.
+Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) para obtener la lista de códigos de error.
 
 ## Incorporación de ID de dispositivo globales {#onboarding-global-device-ids}
 
-Además del envío en tiempo real de los ID de dispositivos globales, también puede &quot;[!DNL onboard]&quot; (cargar) datos con los ID. Este proceso es el mismo que cuando se incorporan datos con los ID de cliente (normalmente a través de pares clave/valor), pero simplemente se usan los ID de Source de datos adecuados para que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=es#implementation-integration-guides). Recuerde utilizar el ID de fuente de datos global en función de la plataforma que utilice.
+Además del envío en tiempo real de los ID de dispositivos globales, también puede &quot;[!DNL onboard]&quot; (cargar) datos con los ID. Este proceso es el mismo que cuando se incorporan datos con los ID de cliente (normalmente a través de pares clave/valor), pero simplemente se usan los ID de Source de datos adecuados para que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Recuerde utilizar el ID de fuente de datos global en función de la plataforma que utilice.
 
-Si se envían ID de dispositivo globales incorrectos a través del proceso de incorporación, los errores se mostrarán en [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=es#reporting).
+Si se envían ID de dispositivo globales incorrectos a través del proceso de incorporación, los errores se mostrarán en [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
 
 A continuación se muestra un ejemplo de un error que llegaría a través de ese informe:
 

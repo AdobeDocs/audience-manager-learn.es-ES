@@ -1,5 +1,5 @@
 ---
-title: Explicación de la gobernanza de datos en tiempo real de CDP para usuarios de Audience Manager
+title: Explicación de la gobernanza de datos en CDP en tiempo real para usuarios de Audience Manager
 description: Este vídeo muestra a los usuarios de Audience Manager la funcionalidad de control de datos de Real-time Customer Data Platform, y la compara con lo que había disponible en Audience Manager. Explica el marco de trabajo Uso de datos y aplicación de etiquetado (DULE) y dónde se puede aplicar en Platform.
 feature: Experience Platform Integration
 topic: Integrations
@@ -16,17 +16,17 @@ ht-degree: 1%
 
 ---
 
-# Explicación de la gobernanza de datos en tiempo real de CDP para usuarios de Audience Manager
+# Explicación de la gobernanza de datos en CDP en tiempo real para usuarios de Audience Manager
 
 Este vídeo muestra a los usuarios de Audience Manager la funcionalidad de control de datos de Real-time Customer Data Platform, y la compara con lo que había disponible en Audience Manager. Explica el marco de trabajo Uso de datos y aplicación de etiquetado (DULE) y dónde se puede aplicar en Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410871/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
 
 ## Recursos adicionales
 
-A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener más información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
+A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
 
-* [Resumen de control de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=es#data-governance)
-* [Clasificar datos con etiquetas de gobernanza](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=es#data-governance)
-* [Crear políticas de uso de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=es#data-governance)
-* [Aplicar directivas de uso de datos en Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=es#data-governance)
+* [Resumen de control de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
+* [Clasificar datos con etiquetas de gobernanza](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
+* [Crear políticas de uso de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
+* [Aplicar directivas de uso de datos en Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

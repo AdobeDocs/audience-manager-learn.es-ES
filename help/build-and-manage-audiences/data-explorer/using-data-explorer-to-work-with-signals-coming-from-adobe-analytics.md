@@ -1,5 +1,5 @@
 ---
-title: Utilice la Data Explorer para trabajar con señales procedentes de Adobe Analytics
+title: Usar Data Explorer para trabajar con señales procedentes de Adobe Analytics
 description: Este vídeo muestra cómo trabajar en Data Explorer para descubrir y utilizar los datos de Adobe Analytics, incluida la búsqueda de señales utilizadas y no utilizadas, la creación de características de Analytics y la comprensión de los datos.
 feature: Data Explorer
 topics: null
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 Este vídeo muestra cómo trabajar en [!UICONTROL Data Explorer] para descubrir y usar los datos de Adobe Analytics, incluida la búsqueda de [!UICONTROL signals] usados y no utilizados, la creación de [!DNL Analytics] rasgos y la comprensión de los datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/330349/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
 Es probable que una de las principales fuentes de datos que llegue a Audience Manager sea una solución de análisis y, por supuesto, esperamos que sea Adobe Analytics.
 
 [!UICONTROL Data Explorer] está preparado y listo para ayudarle a ver lo que viene de varios grupos de informes. A medida que descubra [!DNL Analytics] señales que aún no se utilizan en características, puede hacer clic directamente en [!DNL Trait Builder] y crear las características para utilizar estos eficaces datos de comportamiento en la segmentación.
 
-Para obtener más información acerca de [!DNL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=es).
+Para obtener más información acerca de [!DNL Data Explorer], visite [Data Explorer: información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).

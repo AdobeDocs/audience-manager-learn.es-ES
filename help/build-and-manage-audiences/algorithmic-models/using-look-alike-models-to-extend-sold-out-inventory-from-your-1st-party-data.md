@@ -24,7 +24,7 @@ En este tutorial, explicaremos los pasos que debe seguir para configurar y utili
 
 ## Detalles del caso de uso {#use-case-details}
 
-Es editor de contenido. Si ya ha agotado el inventario de convertidores en su sitio, es posible que piense que su oportunidad termina allí. AAM Especifique la similitud de [!UICONTROL Models] de los usuarios. Al utilizar esta función, puede ampliar aún más el inventario de productos agotados y también vender audiencias de personas que quizá aún no se hayan convertido, pero que se ven o actúan como personas que se han convertido. Este segmento de audiencia generalmente se vendería por menos que los convertidores reales, pero sin embargo le permite agregar a sus resultados finales al proporcionar una opción de audiencia adicional para anunciantes que deseen colocar anuncios en su sitio. La ventaja adicional de este caso de uso es que no le cuesta nada ejecutar este modelo en los datos de origen.
+Es editor de contenido. Si ya ha agotado el inventario de convertidores en su sitio, es posible que piense que su oportunidad termina allí. Especifique la similitud de AAM [!UICONTROL Models]. Al utilizar esta función, puede ampliar aún más el inventario de productos agotados y también vender audiencias de personas que quizá aún no se hayan convertido, pero que se ven o actúan como personas que se han convertido. Este segmento de audiencia generalmente se vendería por menos que los convertidores reales, pero sin embargo le permite agregar a sus resultados finales al proporcionar una opción de audiencia adicional para anunciantes que deseen colocar anuncios en su sitio. La ventaja adicional de este caso de uso es que no le cuesta nada ejecutar este modelo en los datos de origen.
 
 Los pasos de este tutorial son los siguientes:
 
@@ -36,15 +36,15 @@ Los pasos de este tutorial son los siguientes:
 
 ## Identificar o crear un rasgo o segmento de usuario (conversión) ideal {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. AAM En cualquier caso, es habitual en los visitantes crear un rasgo para los visitantes que cumplen con esos criterios.
+¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. En cualquier caso, es común en AAM crear un rasgo para los visitantes que han cumplido con esos criterios.
 
 En este caso de uso, esto ya se supone, porque ha vendido el inventario para las personas que son convertidores. Sin embargo, a los efectos de este tutorial, es bueno analizarlo como referencia para el resto del caso de uso.
 
 Además, cuando se utilizan eventos para crear características, hay una clave importante que debe tenerse en cuenta para que no se recopilen más usuarios de los que deberían en la característica. Vea el siguiente vídeo para la gran revelación. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/328096/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tiene Google Analytics AAM AAM (GA), tenemos un módulo que puede usar para enviar datos a (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)), y si GA envía a su actividad de conversión en el sitio, puede crear su rasgo de conversión a partir de ese módulo (en inglés), que puede usar para enviar datos a los usuarios a los que se ha enviado el módulo de conversión (GA) a su sitio web (en inglés). AAM Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a los usuarios a través de nuestro código de DIL y de la función `submit`, entre otras opciones. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
+**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM a través de nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
 
 ## Crear un modelo de similitud a partir de datos de origen {#creating-a-look-alike-model-from-first-party-data}
 
@@ -52,16 +52,16 @@ En este paso, vamos a crear un modelo de similitud de [!UICONTROL First Party]. 
 
 En este caso de uso, esto es importante, ya que estamos intentando crear un segmento de usuarios en nuestro sitio que se parecen a los convertidores, pero que aún no se han convertido, de modo que podamos vender este segmento de similitud a anunciantes interesados.
 
->[!VIDEO](https://video.tv.adobe.com/v/328111/?quality-12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## Crear un rasgo algorítmico {#creating-an-algorithmic-trait}
 
 A continuación, tendremos que crear un [!UICONTROL Algorithmic Trait] para poder usar los resultados del modelo. Sin crear un rasgo, el modelo es inútil. Así que después de ejecutar el modelo, asegúrese de ir al cuadro de diálogo de características y crear un [!UICONTROL Algorithmic Trait]. El siguiente vídeo lo analiza y muestra un par de sugerencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/30107/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## Ofrecer [!UICONTROL Algorithmic Segment] a los anunciantes {#offering-the-algorithmic-segment-to-advertisers}
 
 Una vez que haya creado un [!UICONTROL Algorithmic Trait], puede crear un nuevo segmento para ponerlo en él, de modo que pueda activar los datos (no puede activar un rasgo, sino crear un nuevo segmento de un rasgo con el [!UICONTROL Algorithmic Trait] en él, de modo que pueda activar (usar) el segmento.
 
-Una vez que haya creado un segmento de visitantes de origen con una puntuación alta en el modelo de similitud (es decir, que parecen convertidores pero aún no se han convertido), puede ofrecer este segmento a los anunciantes del sitio, incluso después de haber vendido todo el inventario de convertidores reales del sitio. Esta es una excelente manera de extender esta audiencia y seguir viendo ingresos adicionales al usar la similitud [!UICONTROL Models] en el Audience Manager.
+Una vez que haya creado un segmento de visitantes de origen con una puntuación alta en el modelo de similitud (es decir, que parecen convertidores pero aún no se han convertido), puede ofrecer este segmento a los anunciantes del sitio, incluso después de haber vendido todo el inventario de convertidores reales del sitio. Esta es una excelente manera de ampliar esta audiencia y seguir viendo ingresos adicionales al usar la similitud [!UICONTROL Models] en Audience Manager.

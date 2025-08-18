@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Una de las opciones al crear características es la configuración [!UICONTROL Time to Live] (TTL), que es una caducidad de la pertenencia a la característica si no vuelve a calificar en el período de tiempo especificado. Este vídeo muestra cómo ver y establecer esta función.
 
->[!VIDEO](https://video.tv.adobe.com/v/341332/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

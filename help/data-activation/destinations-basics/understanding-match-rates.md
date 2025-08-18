@@ -21,4 +21,4 @@ Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Ma
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=es).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).

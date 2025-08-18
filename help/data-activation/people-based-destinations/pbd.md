@@ -1,6 +1,6 @@
 ---
 title: Vídeos y tutoriales de People-Based Destinations
-description: Obtenga información sobre los destinos basados en personas en Audience Manager. Descubra cómo aplicar la segmentación en datos en línea y sin conexión para crear segmentos de audiencia basados en identificadores hash, como direcciones de correo electrónico y más.
+description: Obtenga información acerca de los destinos basados en personas en Audience Manager. Descubra cómo aplicar la segmentación en datos en línea y sin conexión para crear segmentos de audiencia basados en identificadores hash, como direcciones de correo electrónico y más.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -33,4 +33,4 @@ Esta sección contiene vídeos y tutoriales sobre temas relacionados con People-
 * [Crear y configurar destinos basados en personas](create-and-configure-people-based-destinations.md)
 * [Explicación y configuración del destino basado en personas de LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Estos vídeos se pueden usar junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=es).
+Estos vídeos se pueden usar junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

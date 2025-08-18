@@ -1,6 +1,6 @@
 ---
 title: Uso de informes de tendencias con características y segmentos
-description: Aprenda a utilizar los Informes de tendencias en Audience Manager para ver el rendimiento de las características y los segmentos con el paso del tiempo.
+description: Aprenda a utilizar los informes de tendencias en Audience Manager para ver el rendimiento de las características y los segmentos con el paso del tiempo.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Aprenda a utilizar los informes de tendencias en Audience Manager para ver el rendimiento de las características y los segmentos con el paso del tiempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340797/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

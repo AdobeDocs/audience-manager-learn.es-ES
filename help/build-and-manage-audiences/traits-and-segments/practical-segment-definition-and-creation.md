@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo lo acompaña durante un proceso de definición de segmentos y, a continuación, los desglosa por los rasgos o señales que necesitará para crearlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/326719/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

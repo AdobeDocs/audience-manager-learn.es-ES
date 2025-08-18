@@ -1,6 +1,6 @@
 ---
 title: Dar formato e ingerir datos basados en archivos
-description: Conozca algunas de las opciones principales de dónde obtener más información al llevar su proveedor de origen a Audience Manager para comprender mejor a su cliente y orientarse a él. Obtenga información sobre ciertos requisitos de formato para los datos.
+description: Conozca algunas de las opciones principales en las que puede obtener más información al incorporar a su proveedor de origen en Audience Manager para comprender mejor a su cliente y orientarse a él. Obtenga información sobre ciertos requisitos de formato para los datos.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Dar formato e ingerir datos basados en archivos
 
-Al llevar el origen al Audience Manager para comprender mejor a su cliente y orientarse a él, existen ciertos requisitos de formato para los datos. Este vídeo repasa algunas de las opciones principales y muestra dónde obtener más información.
+Al llevar el origen a Audience Manager para comprender mejor a sus clientes y orientarse a ellos, existen ciertos requisitos de formato para los datos. Este vídeo repasa algunas de las opciones principales y muestra dónde obtener más información.
 
->[!VIDEO](https://video.tv.adobe.com/v/346203/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
 Para ver un vídeo sobre cómo nombrar e importar archivos, haga clic [AQUÍ](steps-for-ingesting-file-based-data.md).
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=es&).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

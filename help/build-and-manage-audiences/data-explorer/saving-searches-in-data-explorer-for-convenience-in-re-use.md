@@ -1,5 +1,5 @@
 ---
-title: Guarde las búsquedas en la Data Explorer para reutilizarlas más cómodamente
+title: Guarde las búsquedas en Data Explorer para reutilizarlas más cómodamente
 description: En este vídeo, aprenderá a configurar una búsqueda en Data Explorer, ejecutarla y, a continuación, guardarla para reutilizarla más adelante. También puede colocar la búsqueda guardada en el panel para que esté disponible inmediatamente al entrar en la aplicación de señales.
 feature: Data Explorer
 topics: null
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a configurar una búsqueda en [!DNL Data Explorer], ejecutarla y, a continuación, guardarla para volver a utilizarla más adelante. También puede colocar la búsqueda guardada en el panel para que esté disponible de inmediato al entrar en la aplicación [!UICONTROL Signals].
 
->[!VIDEO](https://video.tv.adobe.com/v/30141/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/es_ES/aam/data-explorer.html).
+Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer: información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

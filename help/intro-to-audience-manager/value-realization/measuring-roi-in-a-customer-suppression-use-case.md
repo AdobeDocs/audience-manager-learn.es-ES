@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Un centavo ahorrado es un centavo ganado, ¿verdad? Aprenda a utilizar un par de fórmulas para determinar los ahorros en costos de campaña suprimiendo los anuncios para los clientes existentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/41300/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)

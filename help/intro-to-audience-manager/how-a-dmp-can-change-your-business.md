@@ -1,6 +1,6 @@
 ---
 title: Cómo un DMP puede cambiar su negocio
-description: Las plataformas de administración de datos son la comidilla del mundo tecnológico en este momento, pero, ¿cuáles son y, lo que es más importante, cómo pueden ayudarle a usted, como especialistas en marketing, a lograr sus objetivos? Durante esta sesión explicaremos lo que es un DMP y mostraremos algunos casos prácticos del mundo real en los que los clientes han visto rendimientos sorprendentes en su inversión, desde compras de medios más eficientes hasta conversiones significativamente mayores.
+description: Las plataformas de administración de datos son la comidilla del mundo tecnológico en este momento, pero, ¿cuáles son y, lo que es más importante, cómo pueden ayudarle a usted, como especialistas en marketing, a lograr sus objetivos? Durante esta sesión explicaremos qué es un DMP y mostraremos algunos casos prácticos del mundo real en los que los clientes han visto rendimientos sorprendentes en su inversión, desde compras de medios más eficientes hasta conversiones significativamente mayores.
 feature: Overview
 topics: null
 activity: understand
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!DNL Data Management Platforms] son la comidilla del mundo tecnológico en este momento, pero ¿cuáles son y, lo que es más importante, cómo pueden ayudarle a usted, como especialistas en marketing, a lograr sus objetivos?
 
-Durante esta sesión explicaremos lo que es un DMP y mostraremos algunos casos prácticos del mundo real en los que los clientes han visto rendimientos sorprendentes en su inversión, desde compras de medios más eficientes hasta conversiones significativamente mayores.
+Durante esta sesión explicaremos qué es un DMP y mostraremos algunos casos prácticos del mundo real en los que los clientes han visto rendimientos sorprendentes en su inversión, desde compras de medios más eficientes hasta conversiones significativamente mayores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

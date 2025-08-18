@@ -1,6 +1,6 @@
 ---
 title: Utilice el tablero de señales para ver rápidamente las señales principales disponibles
-description: Aprenda a utilizar tablas integradas y personalizadas en el panel de señales en Data Explorer. Puede ver rápidamente los datos más recientes que llegan a Audience Manager e incluso hacer clic para crear características según sea necesario. Bienvenido a su nuevo flujo de trabajo más eficiente.
+description: Aprenda a utilizar tablas integradas y personalizadas en el panel de señales de Data Explorer. Puede ver rápidamente los datos más recientes en Audience Manager e incluso hacer clic para crear características según sea necesario. Bienvenido a su nuevo flujo de trabajo más eficiente.
 feature: Data Explorer
 topics: null
 activity: use
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Si usa tablas predeterminadas y personalizadas en [!UICONTROL Signals Dashboard] de [!DNL Data Explorer], podrá ver rápidamente los datos más recientes que llegan a Audience Manager e incluso hacer clic para crear características según sea necesario. Bienvenido a su nuevo flujo de trabajo más eficiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/327524/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
 Al hacer clic hasta [!UICONTROL Data Explorer], también conocida como la aplicación [!UICONTROL Signals], se le mostrará un panel predeterminado de las señales principales, así como nuevas señales. Además de estos dos valores predeterminados, puede guardar búsquedas y agregarlas al tablero, de modo que pueda ver rápidamente los datos más importantes directamente en la página principal de la función.
 
-Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=es)).
+Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

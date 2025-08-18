@@ -1,6 +1,6 @@
 ---
 title: Configurar e informar sobre [!UICONTROL Predictive Audiences]
-description: En este vídeo, revise la configuración de [!UICONTROL Predictive Audiences] en la interfaz del Audience Manager. Consulte los informes que muestran los resultados del modelo.
+description: En este vídeo, revise la configuración de [!UICONTROL Predictive Audiences] en la interfaz de Audience Manager. Consulte los informes que muestran los resultados del modelo.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Configurar e informar sobre [!UICONTROL Predictive Audiences] en el Audience Manager
+# Configurar e informar sobre [!UICONTROL Predictive Audiences] en Audience Manager
 
-En este vídeo, se mostrará la configuración de [!UICONTROL Predictive Audiences] en la interfaz del Audience Manager. También veremos los informes que muestran los resultados del modelo.
+En este vídeo, se mostrará la configuración de [!UICONTROL Predictive Audiences] en la interfaz de Audience Manager. También veremos los informes que muestran los resultados del modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/36922/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=es).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).

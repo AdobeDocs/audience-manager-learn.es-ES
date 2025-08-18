@@ -22,8 +22,8 @@ ht-degree: 0%
 
 En este vídeo, aprenderá los pasos a seguir a medida que incorpore datos sin conexión en Audience Manager, incluidos los requisitos de nombre de archivo para el archivo de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/346194/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
 Para ver un vídeo sobre el formato de datos de los archivos de entrada, haga clic [AQUÍ](formatting-and-ingesting-file-based-data.md).
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=es).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

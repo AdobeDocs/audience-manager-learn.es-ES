@@ -1,6 +1,6 @@
 ---
-title: Mejore sus segmentos con Trait Recommendations
-description: Con Trait Recommendations, cuando crea o edita un segmento, obtiene recomendaciones sobre características adicionales que puede incluir, que son similares a las características de la regla de segmento.
+title: Mejore sus segmentos con Recomendaciones de rasgos
+description: Con Recomendaciones de características, cuando crea o edita un segmento, obtiene recomendaciones sobre características adicionales que puede incluir, que son similares a las características de la regla de segmento.
 feature: Segments
 topics: null
 activity: use
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Con [!UICONTROL Trait Recommendations], cuando crea o edita un segmento en [!UICONTROL Segments], obtiene recomendaciones sobre características adicionales que puede incluir, que son similares a las características de la regla de segmento.
 
->[!VIDEO](https://video.tv.adobe.com/v/40842/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
 [!UICONTROL Trait Recommendations] trabajan tanto en datos de origen como de terceros, de modo que pueda incluir [!UICONTROL Traits] recomendados adicionales y aumentar su audiencia de destino.
 
-Para obtener más información acerca de esta característica, visite la [documentación](https://experiencecloud.adobe.com/resources/help/es_ES/aam/trait-recommendations.html).
+Para obtener más información acerca de esta característica, visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

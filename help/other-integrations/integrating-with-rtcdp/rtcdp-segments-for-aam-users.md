@@ -1,6 +1,6 @@
 ---
 title: Explicación de los segmentos de CDP en tiempo real para usuarios de Audience Manager
-description: A medida que pasa de Audience Manager a Real-time Customer Data Platform, resulta útil comprender las diferencias en los conceptos. Este vídeo analiza las diferencias en la creación de segmentos y segmentos entre CDP en tiempo real y Audience Manager.
+description: A medida que pasa de Audience Manager a Real-time Customer Data Platform, resulta útil comprender las diferencias en los conceptos. Este vídeo analiza las diferencias en la creación de segmentos y segmentos entre Audience Manager y Real-Time CDP.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -18,16 +18,16 @@ ht-degree: 1%
 
 # Explicación de los segmentos de CDP en tiempo real para usuarios de Audience Manager
 
-A medida que pasa de Audience Manager a Real-time Customer Data Platform, resulta útil comprender las diferencias en los conceptos. Este vídeo analiza las diferencias en la creación de segmentos y segmentos entre CDP en tiempo real y Audience Manager.
+A medida que pasa de Audience Manager a Real-time Customer Data Platform, resulta útil comprender las diferencias en los conceptos. Este vídeo analiza las diferencias en la creación de segmentos y segmentos entre Audience Manager y Real-Time CDP.
 
->[!VIDEO](https://video.tv.adobe.com/v/347029/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
 
 ## Recursos adicionales
 
-A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener más información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
+A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
 
-* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=es#getting-started)
-* [Crear conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=es#permissions-required)
-* [Crear segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=es#segments)
-* [Crear segmentos dinámicos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=es#segments)
-* [Crear segmentos de varias entidades](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=es#segments)
+* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Crear conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
+* [Crear segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [Crear segmentos dinámicos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
+* [Crear segmentos de varias entidades](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)

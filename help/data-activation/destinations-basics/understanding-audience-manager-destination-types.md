@@ -1,5 +1,5 @@
 ---
-title: Explicación de los tipos de destino de Audience Manager
+title: Comprender los tipos de destino de Audience Manager
 description: Conozca los diferentes tipos de destinos en Adobe Audience Manager y dé ejemplos de cuándo utilizaría cada uno.
 feature: Destination Basics
 doc-type: presentation
@@ -21,6 +21,6 @@ Este vídeo le guía por los diferentes tipos de destinos de Adobe Audience Mana
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Puede ver una lista de los socios de destino servidor a servidor disponibles en la [documentación de destinos basados en dispositivos de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=es).
+Puede ver una lista de los socios de destino servidor a servidor disponibles en la [documentación de destinos basados en dispositivos de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Para obtener información adicional sobre los destinos, visita [Destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=es) en la documentación del producto.
+Para obtener información adicional sobre los destinos, visita [Destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) en la documentación del producto.

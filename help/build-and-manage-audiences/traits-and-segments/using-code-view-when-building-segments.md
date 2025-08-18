@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Aprenda a utilizar la vista de código para definir segmentos, lo que le permite crear combinaciones de características complejas, incluido el uso de actualización y frecuencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/326796/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)

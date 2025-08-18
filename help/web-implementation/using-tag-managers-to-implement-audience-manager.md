@@ -26,6 +26,6 @@ Se destacan los siguientes casos de uso:
 * Implemente mediante etiquetas de Adobe Experience Platform (anteriormente, Launch) cuando también utilice Adobe Analytics
 * Implementación mediante etiquetas de Adobe Experience Platform cuando no se utiliza Adobe Analytics
 * Implementar mediante un administrador de etiquetas que no sea de Adobe al utilizar Adobe Analytics
-* Implementar mediante un administrador de etiquetas que no sea de Adobe cuando no se utilice Adobe Analytics
+* Implementar mediante un administrador de etiquetas que no sea de Adobe cuando no utilice Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/33581/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

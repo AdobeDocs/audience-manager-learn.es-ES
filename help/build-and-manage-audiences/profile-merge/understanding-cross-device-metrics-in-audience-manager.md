@@ -22,4 +22,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá la diferencia entre los perfiles de dispositivo y los perfiles entre dispositivos y dónde coinciden los números de la interfaz con estos diferentes tipos de perfiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/36789/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

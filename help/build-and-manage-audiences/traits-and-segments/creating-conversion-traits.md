@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Crear una característica de conversión en Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Creación de una característica de conversión en Audience Manager {#creating-conversion-traits-in-audience-manager}
 
 Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenderá a designarlos como tales y aprenderá una sugerencia/pregunta muy importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/328096/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. AAM En cualquier caso, es habitual en los visitantes crear rasgos para los visitantes que cumplen con esos criterios.
+¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. En cualquier caso, es común en AAM crear características para los visitantes que cumplen con esos criterios.
 
-AAM En el campo, hay un campo en el que puede marcar su rasgo como un rasgo de conversión, especialmente para usarlo en [!UICONTROL Audience Lab].
+En AAM, hay un campo donde puede marcar su rasgo como un rasgo de conversión, especialmente para usarlo en [!UICONTROL Audience Lab].
 
 Además, cuando se utilizan eventos para crear características, hay una clave importante que debe tenerse en cuenta para que no se recopilen más usuarios de los que deberían en la característica. Mira este video para la gran revelación.

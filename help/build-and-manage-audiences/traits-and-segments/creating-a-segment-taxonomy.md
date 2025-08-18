@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cuando crea un segmento en Audience Manager, lo almacena en una estructura basada en carpetas o en una &quot;taxonomía&quot;. Conozca algunas sugerencias para crear y administrar la taxonomía de segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/326861/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
