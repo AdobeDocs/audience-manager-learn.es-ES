@@ -26,4 +26,4 @@ Al llevar el origen a Audience Manager para comprender mejor a sus clientes y or
 
 Para ver un vídeo sobre cómo nombrar e importar archivos, haga clic [AQUÍ](steps-for-ingesting-file-based-data.md).
 
-Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=es&).

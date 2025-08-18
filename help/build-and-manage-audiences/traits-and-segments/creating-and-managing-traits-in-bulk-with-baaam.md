@@ -22,7 +22,7 @@ Al crear, editar o eliminar características, el uso de la interfaz de usuario p
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Para obtener más información, incluida la descarga de la hoja de cálculo BAAAM, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Para obtener más información, incluida la descarga de la hoja de cálculo BAAAM, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=es#reference).
 
 >[!IMPORTANT]
 >

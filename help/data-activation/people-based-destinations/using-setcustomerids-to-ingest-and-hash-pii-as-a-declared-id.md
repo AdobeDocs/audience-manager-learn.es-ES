@@ -24,4 +24,4 @@ En este vídeo, aprenderá por qué y cómo utilizar el método del servicio de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=es).

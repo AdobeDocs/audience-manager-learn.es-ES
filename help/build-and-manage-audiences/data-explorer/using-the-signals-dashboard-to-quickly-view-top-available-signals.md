@@ -26,4 +26,4 @@ Si usa tablas predeterminadas y personalizadas en [!UICONTROL Signals Dashboard]
 
 Al hacer clic hasta [!UICONTROL Data Explorer], también conocida como la aplicación [!UICONTROL Signals], se le mostrará un panel predeterminado de las señales principales, así como nuevas señales. Además de estos dos valores predeterminados, puede guardar búsquedas y agregarlas al tablero, de modo que pueda ver rápidamente los datos más importantes directamente en la página principal de la función.
 
-Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=es)).
