@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Los informes de superposición le permiten ver cómo las audiencias de características y de segmentos se superponen entre sí (el mismo visitante en varias características o segmentos), para que sepa dónde puede actuar con los datos a fin de aumentar la conversión o centrarse en ampliar el alcance.
 
->[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345081/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=es#reporting).

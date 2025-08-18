@@ -22,6 +22,6 @@ ht-degree: 0%
 
 En este vídeo, se mostrará la configuración de [!UICONTROL Predictive Audiences] en la interfaz de Audience Manager. También veremos los informes que muestran los resultados del modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36922/?quality=12&captions=spa)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=es).

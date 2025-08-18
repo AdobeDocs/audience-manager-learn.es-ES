@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Obtenga información acerca de la herramienta Audience Manager [!UICONTROL Bulk Management], denominada comúnmente como &quot;BAAAM&quot;. Consulte cómo autenticarse para poder utilizar la hoja BAAAM para crear, editar y eliminar características y segmentos a través de la API de REST.
 
->[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340489/?quality=12&learn=on&captions=spa)
 
 >[!IMPORTANT]
 >

@@ -28,7 +28,7 @@ Para utilizar datos de segundo nivel y de terceros en un modelo de similitud, pr
 
 Además, para ayudarle a investigar y decidir qué proveedor de datos utilizar, un buen recurso es [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30106/?quality=12&captions=spa)
 
 ## Identificar o crear un rasgo o segmento de usuario (conversión) ideal {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,7 +38,7 @@ En el siguiente vídeo, le mostraré cómo crear un rasgo de conversión, que qu
 
 Además, cuando se utilizan eventos de Adobe Analytics para crear características, hay una complicación importante que debe tener en cuenta para que no recopile más usuarios de los que debería en las características. Vea el siguiente vídeo para la gran revelación. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328096/?quality=12&captions=spa)
 
 **NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM a través de nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)). A continuación, cree la característica de conversión en función de los datos enviados cuando la actividad de conversión se realice en el sitio.
 
@@ -46,7 +46,7 @@ Además, cuando se utilizan eventos de Adobe Analytics para crear característic
 
 Después de completar los pasos anteriores, ahora estamos listos para crear un modelo algorítmico (de similitud). A medida que configuramos el modelo, utilizaremos el rasgo de conversión como nuestro rasgo base (visitantes clave que queremos duplicar) y utilizaremos el flujo de datos de terceros habilitado como nuestro grupo de personas del que extraer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/30105/?quality-12&captions=spa)
 
 ## Una práctica recomendada importante {#an-important-best-practice}
 
@@ -56,7 +56,7 @@ Al crear el modelo algorítmico en Audience Manager, obviamente queremos que el 
 
 A continuación, tendremos que crear un [!UICONTROL Algorithmic Trait] para poder utilizar los resultados del modelo. Sin crear un rasgo, el modelo es inútil. Por lo tanto, después de ejecutar el modelo, asegúrese de entrar en el cuadro de diálogo de características y crear un [!UICONTROL Algorithmic Trait]. El siguiente vídeo lo analiza y muestra un par de sugerencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30104/?quality=12&captions=spa)
 
 ## Cree un segmento a partir de los datos del modelo y envíelo a DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

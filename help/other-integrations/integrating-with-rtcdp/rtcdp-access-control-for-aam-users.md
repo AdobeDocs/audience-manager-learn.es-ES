@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Al pasar de Audience Manager a Real-time Customer Data Platform, querrá saber dónde se establecen los permisos de usuarios y grupos. Este vídeo muestra cómo se controlará el acceso ahora en Adobe Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410903/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

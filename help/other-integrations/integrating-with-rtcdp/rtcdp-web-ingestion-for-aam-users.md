@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Este vídeo muestra a los usuarios de Audience Manager los conceptos relativos a la introducción de datos de sitios web en la plataforma de datos del cliente en tiempo real (CDP en tiempo real) e incluye un contacto de alto nivel sobre dónde se adapta el conector de datos de Audience Manager, así como la forma en que los datos pueden moverse del sitio web directamente a través del SDK web al CDP en tiempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346977/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

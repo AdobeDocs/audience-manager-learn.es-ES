@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Al crear segmentos en Audience Manager, puede añadir características de varias fuentes de datos. Este vídeo muestra cómo hacerlo y analiza otros ajustes que deben tenerse en cuenta.
 
->[!VIDEO](https://video.tv.adobe.com/v/37713/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327045/?quality=12&learn=on&captions=spa)

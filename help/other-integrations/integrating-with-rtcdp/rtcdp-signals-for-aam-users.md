@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Este vídeo está diseñado para usuarios de Audience Manager que se trasladan a la plataforma de datos del cliente en tiempo real (CDP en tiempo real) y analiza cómo se utilizan en ella las señales (pares clave-valor) que utiliza en Audience Manager para crear rasgos.
 
->[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410877/?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

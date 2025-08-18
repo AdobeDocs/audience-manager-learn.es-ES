@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Al crear, editar o eliminar características, el uso de la interfaz de usuario para hacerlo uno por uno puede ser ineficiente y requerir mucho tiempo. En este vídeo, aprenderá a utilizar BAAAM, la herramienta de administración masiva de Audience Manager, para crear, editar y eliminar características de forma masiva, mediante una hoja de cálculo de Microsoft simple como interfaz con la API de REST.
 
->[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344710/?quality=12&learn=on&captions=spa)
 
 Para obtener más información, incluida la descarga de la hoja de cálculo BAAAM, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=es#reference).
 

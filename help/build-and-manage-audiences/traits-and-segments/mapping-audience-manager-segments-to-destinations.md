@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Obtenga información sobre los distintos tipos de destinos en Audience Manager y los detalles de asignación de segmentos a cada tipo de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327392/?quality=12&learn=on&captions=spa)

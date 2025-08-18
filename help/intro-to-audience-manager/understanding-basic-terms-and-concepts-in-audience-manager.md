@@ -24,4 +24,4 @@ ht-degree: 85%
 
 En este vídeo analizaremos algunos de los términos y conceptos básicos que le ayudarán a dar sus primeros pasos en Audience Manager, lo que incluye señales, rasgos, segmentos, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37104/?quality=12&captions=spa)
