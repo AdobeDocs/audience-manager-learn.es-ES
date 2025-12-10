@@ -27,9 +27,9 @@ Este vídeo analiza la ingesta de datos de origen sin conexión en la plataforma
 
 A continuación, se muestran algunos vídeos y tutoriales existentes que pueden ayudarle a obtener información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
 
-* [Ingesta de datos mediante el conector de datos de Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Resumen de ingesta de datos de streaming](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
-* [Información general sobre la ingesta de datos por lotes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
-* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [Crear conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [Crear segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [Ingesta de datos mediante el conector de datos de Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=es#sources)
+* [Resumen de ingesta de datos de streaming](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=es#data-ingestion)
+* [Información general sobre la ingesta de datos por lotes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=es#data-ingestion)
+* [Crear un esquema con el Editor de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=es#getting-started)
+* [Crear conjuntos de datos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=es#permissions-required)
+* [Crear segmentos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=es#segments)

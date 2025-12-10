@@ -26,4 +26,4 @@ Con [!UICONTROL Trait Recommendations], cuando crea o edita un segmento en [!UIC
 
 [!UICONTROL Trait Recommendations] trabajan tanto en datos de origen como de terceros, de modo que pueda incluir [!UICONTROL Traits] recomendados adicionales y aumentar su audiencia de destino.
 
-Para obtener más información acerca de esta característica, visite la [documentación](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Para obtener más información acerca de esta característica, visite la [documentación](https://experiencecloud.adobe.com/resources/help/es_ES/aam/trait-recommendations.html).

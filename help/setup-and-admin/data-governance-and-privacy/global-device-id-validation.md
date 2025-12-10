@@ -89,13 +89,13 @@ Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en ti
 
 ![imagen de error](assets/image_4_.png)
 
-Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) para obtener la lista de códigos de error.
+Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=es#api-and-sdk-code) para obtener la lista de códigos de error.
 
 ## Incorporación de ID de dispositivo globales {#onboarding-global-device-ids}
 
-Además del envío en tiempo real de los ID de dispositivos globales, también puede &quot;[!DNL onboard]&quot; (cargar) datos con los ID. Este proceso es el mismo que cuando se incorporan datos con los ID de cliente (normalmente a través de pares clave/valor), pero simplemente se usan los ID de Source de datos adecuados para que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Recuerde utilizar el ID de fuente de datos global en función de la plataforma que utilice.
+Además del envío en tiempo real de los ID de dispositivos globales, también puede &quot;[!DNL onboard]&quot; (cargar) datos con los ID. Este proceso es el mismo que cuando se incorporan datos con los ID de cliente (normalmente a través de pares clave/valor), pero simplemente se usan los ID de Source de datos adecuados para que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=es#implementation-integration-guides). Recuerde utilizar el ID de fuente de datos global en función de la plataforma que utilice.
 
-Si se envían ID de dispositivo globales incorrectos a través del proceso de incorporación, los errores se mostrarán en [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
+Si se envían ID de dispositivo globales incorrectos a través del proceso de incorporación, los errores se mostrarán en [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=es#reporting).
 
 A continuación se muestra un ejemplo de un error que llegaría a través de ese informe:
 

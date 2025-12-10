@@ -25,4 +25,4 @@ Comprenda los principales desafíos con la personalización entre canales y cóm
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=es).

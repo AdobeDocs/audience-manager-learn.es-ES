@@ -32,4 +32,4 @@ Vea los vídeos y tutoriales sobre las funciones de combinación de perfiles, in
 * [Interpretación de informes de identidad de audiencia](interpret-audience-identity-reporting.md)
 * [Comprensión de las métricas entre dispositivos en Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Estos vídeos se pueden usar junto con la [documentación de reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Estos vídeos se pueden usar junto con la [documentación de reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=es)

@@ -26,5 +26,5 @@ Este vídeo está diseñado para usuarios de Audience Manager que se trasladan a
 
 A continuación, se muestran los vídeos y recursos existentes que pueden ayudarle a obtener información sobre Real-time Customer Data Platform. No dude en explorar otros vídeos y tutoriales relacionados para obtener más información sobre Platform.
 
-* [Explicación de los rasgos de CDP en tiempo real para usuarios de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [Explicación de los segmentos de CDP en tiempo real para usuarios de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [Explicación de los rasgos de CDP en tiempo real para usuarios de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=es#other-integrations)
+* [Explicación de los segmentos de CDP en tiempo real para usuarios de Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=es#other-integrations)
