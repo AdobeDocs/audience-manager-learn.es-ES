@@ -21,6 +21,6 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a utilizar las recomendaciones de características actualizadas en [!UICONTROL Segments], que son [!UICONTROL Audience Marketplace] recomendaciones. Esto le proporcionará insight adicional en datos de terceros que pueden ampliar el alcance de sus segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32756/?captions=spa&quality=12)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=es).

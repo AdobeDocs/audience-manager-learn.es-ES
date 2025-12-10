@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Una de las funciones más potentes de Audience Manager es la capacidad de incorporar datos sin conexión y vincularlos con los datos en línea. En este vídeo, aprenderá a usar [!DNL Data Explorer] para validar que ha creado todos los rasgos necesarios para aprovechar estos datos incorporados.
 
->[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330351/?captions=spa&quality=12)
 
 En muchos casos, se crean rasgos para los datos incorporados antes de incorporarse realmente a los datos. Sin embargo, es posible que se agreguen nuevas claves y valores a lo largo del camino y que ya no tenga todos los rasgos creados que necesita para aprovechar estos datos excelentes. Con [!UICONTROL Data Explorer], puede realizar una búsqueda rápida para ver todos los datos incorporados y filtrarlos por [!UICONTROL Data Source] específicos, o incluso filtrarlos a la clave o al valor. Esta búsqueda le permite validar sus datos de forma eficaz.
 

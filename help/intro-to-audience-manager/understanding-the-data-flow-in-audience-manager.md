@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo le ayuda a comprender Adobe Audience Manager, ya que describe el flujo de datos dentro y fuera de la aplicación, y a través de esta.
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37102/?captions=spa&quality=12)

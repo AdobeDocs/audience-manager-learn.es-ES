@@ -32,7 +32,7 @@ El complemento Audience Manager para el TCF de IAB amplía la funcionalidad de i
 
 Activar el complemento de Audience Manager para el TCF de IAB es fácil si utiliza Adobe Experience Platform Launch, ya que es una casilla de verificación sencilla, como se muestra en el breve vídeo siguiente:
 
->[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38264/?captions=spa&quality=12)
 
 Alternativamente, si no está utilizando Launch, puede utilizar `isIabContext=true` para habilitarlo al crear una instancia del visitante de Experience Cloud. Esto inicia el flujo TCF de IAB, es decir, añade otro paso a la recopilación de consentimiento, utilizando el TCF de IAB para consultar la cadena IAB TC y la devuelve al servicio de inclusión, que a su vez se comunica con las soluciones de Experience Cloud.
 
@@ -84,6 +84,6 @@ La advertencia es que si el usuario está en el contexto de IAB y no da su conse
 
 En el siguiente vídeo, vea cómo las cookies y las señalizaciones de ECID y las soluciones se ven afectadas por las selecciones de opción de usuario de IAB.
 
->[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38249/?captions=spa&quality=12)
 
 Para obtener información más detallada sobre el complemento de Audience Manager para IAB TCF 2.2, incluido cómo implementar y probar, casos de uso y flujo de trabajo, consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=es).

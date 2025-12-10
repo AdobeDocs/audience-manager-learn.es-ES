@@ -20,4 +20,4 @@ ht-degree: 0%
 
 A medida que pasa de Audience Manager a la plataforma de datos del cliente en tiempo real (CDP en tiempo real), es imperativo conocer los destinos para saber cómo activar los segmentos de audiencia hacia los socios de destino. En este vídeo se describen los diferentes tipos de destino y dónde se encuentran en CDP en tiempo real.
 
->[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410883/?captions=spa&quality=12&learn=on)

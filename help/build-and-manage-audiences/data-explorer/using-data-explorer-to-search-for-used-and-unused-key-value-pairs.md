@@ -22,7 +22,7 @@ ht-degree: 0%
 
 En el trabajo diario en Audience Manager, es posible que tenga que averiguar rápidamente si un rasgo se ha creado a partir de un par clave/valor específico. Este vídeo muestra cómo averiguarlo con [!UICONTROL Data Explorer].
 
->[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330350/?captions=spa&quality=12)
 
 Para averiguar si una señal se ha creado en una característica, ya no tiene que descargar un archivo BAAAM y también el informe [!UICONTROL Unused Signals]. Ahora simplemente puede buscar ese par clave/valor en [!DNL Data Explorer], también conocido como la aplicación [!UICONTROL Signals], en AAM, y encontrar pares clave/valor que estén en rasgos y los que no, todos en la misma lista. ¡Gran ahorrador de tiempo!
 

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Este vídeo muestra a los usuarios de Audience Manager la funcionalidad de control de datos de Real-time Customer Data Platform, y la compara con lo que había disponible en Audience Manager. Explica el marco de trabajo Uso de datos y aplicación de etiquetado (DULE) y dónde se puede aplicar en Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410871/?captions=spa&quality=12&learn=on)
 
 ## Recursos adicionales
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Este vídeo ofrece información general sobre los destinos basados en personas y muestra el flujo de datos a través del proceso.
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32178/?captions=spa&quality=12)

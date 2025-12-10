@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Información general sobre la mejor preparación para la versión de [!UICONTROL Profile Merge Rule] mejoras.
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32177/?captions=spa&quality=12)

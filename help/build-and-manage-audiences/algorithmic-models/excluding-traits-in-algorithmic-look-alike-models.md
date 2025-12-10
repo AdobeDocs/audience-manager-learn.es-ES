@@ -22,7 +22,7 @@ ht-degree: 0%
 
 En este vídeo, aprenderá cómo y por qué excluir rasgos específicos (o grupos de) de un modelo algorítmico (de similitud).
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38135/?captions=spa&quality=12)
 
 Los casos de uso de esta función incluyen:
 

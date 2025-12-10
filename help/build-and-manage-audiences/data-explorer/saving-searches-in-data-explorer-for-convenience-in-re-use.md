@@ -23,6 +23,6 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a configurar una búsqueda en [!DNL Data Explorer], ejecutarla y, a continuación, guardarla para volver a utilizarla más adelante. También puede colocar la búsqueda guardada en el panel para que esté disponible de inmediato al entrar en la aplicación [!UICONTROL Signals].
 
->[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30141/?captions=spa&quality=12)
 
 Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer: información general, beneficios y casos de uso](https://experiencecloud.adobe.com/resources/help/es_ES/aam/data-explorer.html).
