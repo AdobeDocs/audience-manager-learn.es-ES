@@ -9,10 +9,10 @@ team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
 topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-source-git-commit: d0812450ddc8c7398e7bb58b40dbb1c3818d7215
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Descubra cómo funciona la integración entre Adobe Audience Manager y [!DNL Adobe Advertising]. También obtenga respuestas acerca de las tasas de coincidencia y la sincronización de cookies de terceros.
 
->[!VIDEO](https://video.tv.adobe.com/v/35550/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

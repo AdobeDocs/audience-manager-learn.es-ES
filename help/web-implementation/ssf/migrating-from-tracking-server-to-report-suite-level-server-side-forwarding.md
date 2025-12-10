@@ -8,10 +8,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Si no está seguro de si [!DNL tracking server forwarding] está habilitado para
 
 ## Reenvío del lado del servidor de nivel [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Una de las mayores ventajas de pasar al reenvío de [!UICONTROL report suite] desde el reenvío de [!UICONTROL tracking server] es que ahora podrá usar &quot;Audience Analytics&quot;, que es la capacidad de reenviar Audience Manager [!UICONTROL segments] de nuevo a Adobe Analytics para un análisis detallado de los segmentos. Esta excelente característica NO se admite si sigue reenviando [!UICONTROL tracking server] y no [!UICONTROL report suite]. Encontrará más información sobre Audience Analytics en [documentación](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es).
+Una de las mayores ventajas de pasar al reenvío de [!UICONTROL report suite] desde el reenvío de [!UICONTROL tracking server] es que ahora podrá usar &quot;Audience Analytics&quot;, que es la capacidad de reenviar Audience Manager [!UICONTROL segments] de nuevo a Adobe Analytics para un análisis detallado de los segmentos. Esta excelente característica NO se admite si sigue reenviando [!UICONTROL tracking server] y no [!UICONTROL report suite]. Encontrará más información sobre Audience Analytics en [documentación](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

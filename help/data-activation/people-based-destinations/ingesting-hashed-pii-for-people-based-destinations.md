@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 9e042c20-ddca-4ead-824d-8bbcd718fab9
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá a dar formato a una sincronización de ID basada en archivos para conectar sus ID de cliente (ID de CRM) con direcciones de correo electrónico con hash. Esto le permitirá enviar las direcciones de correo electrónico con hash a destinos basados en personas, como [!DNL Facebook].
 
->[!VIDEO](https://video.tv.adobe.com/v/31626/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

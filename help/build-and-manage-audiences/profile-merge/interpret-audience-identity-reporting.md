@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 90183636-e205-420b-bbcf-899a779f53a7
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de un rasgo o segmento según las definiciones de identidad de una persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes de Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/32175/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

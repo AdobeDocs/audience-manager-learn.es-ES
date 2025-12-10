@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -42,9 +42,9 @@ En este caso de uso, esto ya se supone, porque ha vendido el inventario para las
 
 Además, cuando se utilizan eventos para crear características, hay una clave importante que debe tenerse en cuenta para que no se recopilen más usuarios de los que deberían en la característica. Vea el siguiente vídeo para la gran revelación. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/328096/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM a través de nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
+**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM a través de nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
 
 ## Crear un modelo de similitud a partir de datos de origen {#creating-a-look-alike-model-from-first-party-data}
 
@@ -52,13 +52,13 @@ En este paso, vamos a crear un modelo de similitud de [!UICONTROL First Party]. 
 
 En este caso de uso, esto es importante, ya que estamos intentando crear un segmento de usuarios en nuestro sitio que se parecen a los convertidores, pero que aún no se han convertido, de modo que podamos vender este segmento de similitud a anunciantes interesados.
 
->[!VIDEO](https://video.tv.adobe.com/v/328111/?quality-12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## Crear un rasgo algorítmico {#creating-an-algorithmic-trait}
 
 A continuación, tendremos que crear un [!UICONTROL Algorithmic Trait] para poder usar los resultados del modelo. Sin crear un rasgo, el modelo es inútil. Así que después de ejecutar el modelo, asegúrese de ir al cuadro de diálogo de características y crear un [!UICONTROL Algorithmic Trait]. El siguiente vídeo lo analiza y muestra un par de sugerencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/30107/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## Ofrecer [!UICONTROL Algorithmic Segment] a los anunciantes {#offering-the-algorithmic-segment-to-advertisers}
 

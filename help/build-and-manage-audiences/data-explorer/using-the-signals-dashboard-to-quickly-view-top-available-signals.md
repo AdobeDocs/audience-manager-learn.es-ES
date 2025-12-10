@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Si usa tablas predeterminadas y personalizadas en [!UICONTROL Signals Dashboard] de [!DNL Data Explorer], podrá ver rápidamente los datos más recientes que llegan a Audience Manager e incluso hacer clic para crear características según sea necesario. Bienvenido a su nuevo flujo de trabajo más eficiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/327524/?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
 Al hacer clic hasta [!UICONTROL Data Explorer], también conocida como la aplicación [!UICONTROL Signals], se le mostrará un panel predeterminado de las señales principales, así como nuevas señales. Además de estos dos valores predeterminados, puede guardar búsquedas y agregarlas al tablero, de modo que pueda ver rápidamente los datos más importantes directamente en la página principal de la función.
 
-Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=es)).
+Para obtener más información acerca de [!UICONTROL Data Explorer], visite [Data Explorer - Información general, beneficios y casos de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
