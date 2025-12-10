@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Los informes de identidad de audiencia permiten a los clientes informar sobre la población total de un rasgo o segmento según las definiciones de identidad de una persona o unidad familiar. Vea este vídeo para ver cómo se manifiesta en los informes de Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32713/?captions=spa&quality=12)
