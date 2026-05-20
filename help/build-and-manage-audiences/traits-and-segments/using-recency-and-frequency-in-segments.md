@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Use [!UICONTROL Recency] y [!UICONTROL Frequency] para darle a su segmento parámetros sobre cuántas veces un visitante debe cumplir los requisitos para una característica en un período de tiempo determinado. Excelente para casos de uso de afinidad de contenido, restricción de frecuencia y otros.
 
->[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327046/?captions=spa&quality=12&learn=on)

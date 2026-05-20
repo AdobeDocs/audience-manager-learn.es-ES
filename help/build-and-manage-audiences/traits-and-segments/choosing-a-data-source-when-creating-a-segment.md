@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Conozca algunas sugerencias para elegir la fuente de datos correcta al crear un nuevo segmento en Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327401/?captions=spa&quality=12&learn=on)

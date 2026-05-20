@@ -29,7 +29,7 @@ ht-degree: 0%
 
 Algunos de los rasgos se basan en las conversiones del sitio. En este vídeo, aprenderá a designarlos como tales y aprenderá una sugerencia/pregunta muy importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328096/?captions=spa&quality=12)
 
 ¿Qué está intentando que la gente haga en su sitio? ¿Cuál es su evento de conversión? Por supuesto, hay muchas respuestas diferentes a esta pregunta, según el tipo/vertical del sitio y los objetivos de la organización. En cualquier caso, es común en AAM crear características para los visitantes que cumplen con esos criterios.
 

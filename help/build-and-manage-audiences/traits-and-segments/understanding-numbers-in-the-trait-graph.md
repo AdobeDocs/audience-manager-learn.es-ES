@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Obtenga algunas sugerencias para comprender los números de informes de características en la pantalla de información de características.
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340527/?captions=spa&quality=12&learn=on)

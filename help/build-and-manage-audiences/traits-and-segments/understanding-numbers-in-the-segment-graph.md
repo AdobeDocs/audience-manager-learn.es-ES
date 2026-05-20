@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Obtenga información acerca de los números que se muestran en el gráfico de la pantalla de información del segmento.
 
->[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326853/?captions=spa&quality=12&learn=on)
