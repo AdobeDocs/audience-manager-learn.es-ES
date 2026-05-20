@@ -11,9 +11,19 @@ kt: 1688
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/xFz82Q0MZ-ZyErTuOZPm66xUSe3uLbAGJ3xMiUBun8A
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: 891
 ht-degree: 0%
 
 ---
@@ -44,7 +54,7 @@ Además, cuando se utilizan eventos para crear características, hay una clave i
 
 >[!VIDEO](https://video.tv.adobe.com/v/328096/?captions=spa&quality=12)
 
-**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM a través de nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
+**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM mediante nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
 
 ## Crear un modelo de similitud a partir de datos de origen {#creating-a-look-alike-model-from-first-party-data}
 

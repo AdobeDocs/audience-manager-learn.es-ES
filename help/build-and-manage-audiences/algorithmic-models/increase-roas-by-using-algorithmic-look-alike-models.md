@@ -11,9 +11,24 @@ kt: 1849
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/rQ-djjfEOZDjR3IdvvJnO1Hb2tu6IUhz0uFhp-xuZq8
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+  - id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+subfeature_v2:
+  - id: d921db59-bd4a-43dc-97e6-4ff4611f1ae8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: 943
 ht-degree: 0%
 
 ---
@@ -40,7 +55,7 @@ Además, cuando se utilizan eventos de Adobe Analytics para crear característic
 
 >[!VIDEO](https://video.tv.adobe.com/v/328096/?captions=spa&quality=12)
 
-**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM a través de nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)). A continuación, cree la característica de conversión en función de los datos enviados cuando la actividad de conversión se realice en el sitio.
+**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM mediante nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)). A continuación, cree la característica de conversión en función de los datos enviados cuando la actividad de conversión se realice en el sitio.
 
 ## Crear un modelo de similitud a partir de datos de segundo nivel o de terceros {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
