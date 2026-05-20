@@ -40,5 +40,5 @@ Al pasar de Audience Manager a Real-time Customer Data Platform, querrá saber d
 
 A continuación, se muestran los recursos existentes que pueden ayudarle a obtener información sobre Real-time Customer Data Platform.
 
-* [Información general de control de acceso](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [Configuración de permisos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [Información general de control de acceso](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=es#access-control-hierarchy-and-workflow)
+* [Configuración de permisos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=es)
