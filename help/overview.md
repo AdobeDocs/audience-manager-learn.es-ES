@@ -2,35 +2,46 @@
 title: Vídeos y tutoriales de Audience Manager
 description: Una colección de vídeos y tutoriales para Adobe Audience Manager.
 feature: Overview
-topics: null
+topics:
 activity: use
 doc-type: overview
 team: Technical Marketing
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-TQID: https://experienceleague.adobe.com/QnyRf-CdEBxQiyKUGCNuz7pR93TdrANPEssSfvyqTag
+TQID: 'https://experienceleague.adobe.com/QnyRf-CdEBxQiyKUGCNuz7pR93TdrANPEssSfvyqTag'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+feature_v2:
+  - id: ce14ba14-a06d-4b2b-b7dd-04cb862494ec
+    internal-label: Administration
+subfeature_v2:
+  - id: fa77d762-7e75-47b2-9bb4-e3fcf50d251d
+    internal-label: Overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Data management
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '320'
 ht-degree: 5%
-
 ---
-
 # Tutoriales de Audience Manager
 
-Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriales junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=es) le permitirá comprender mejor cómo usar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que use el mejor [!DNL data management platform] de Adobe.
+Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriales junto con la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) le permitirá comprender mejor cómo usar Adobe Audience Manager para crear y activar audiencias en cualquier canal o dispositivo que use el mejor [!DNL data management platform] de Adobe.
 
 * **Selección de personal** destaca algunos de nuestros contenidos favoritos
 * Explore el contenido por tema y subtema en la **navegación izquierda**
@@ -55,7 +66,7 @@ Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriale
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=es">
-    <strong>Implementar Adobe Experience Cloud con el tutorial de Web SDK</strong>
+    <strong>Tutorial de implementación de Adobe Experience Cloud con Web SDK</strong>
     </a>
     </div>
     <p>
@@ -63,11 +74,11 @@ Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriale
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=es">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="imagen en miniatura para el tutorial &quot;Explicación de segmentos en CDP en tiempo real&quot;" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=es">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
     <strong>Explicación de los segmentos de CDP en tiempo real para usuarios de Audience Manager</strong>
     </a>
     </div>
@@ -76,11 +87,11 @@ Bienvenido al sitio de tutoriales de Audience Manager. El uso de estos tutoriale
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=es">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
       <img alt="imagen en miniatura para el tutorial &quot;Configurar e informar sobre Audiencias predictivas en Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=es">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
     <strong>Configurar e informar sobre Predictive Audiences en Audience Manager</strong>
     </a>
     </div>

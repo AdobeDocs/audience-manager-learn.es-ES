@@ -3,7 +3,7 @@ title: Migre la implementación de Audience Manager de su sitio desde DIL del la
 description: Obtenga información sobre cómo migrar la implementación de Audience Manager (AAM) de su sitio desde DIL del lado del cliente al reenvío del lado del servidor. Este tutorial se aplica si tiene AAM y Adobe Analytics y envía visitas de la página a AAM mediante el código de DIL (Data Integration Library) y también envía visitas de la página a Adobe Analytics.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,34 +11,47 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+TQID: 'https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
 subfeature_v2:
   - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Personalization
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 2419
+source-wordcount: '2419'
 ht-degree: 0%
-
 ---
-
 # Migre la implementación de Audience Manager de su sitio desde DIL del lado del cliente al reenvío del lado del servidor {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-Este tutorial se aplica si tiene Adobe Audience Manager (AAM) y Adobe Analytics, y está enviando una visita de la página a AAM mediante el código DIL ([!DNL Data Integration Library]), y también enviando una visita de la página a Adobe Analytics. Dado que tiene ambas soluciones y que ambas forman parte de Adobe Experience Cloud, tiene la oportunidad de seguir la práctica recomendada de activar el reenvío del lado del servidor, que permite a los servidores de recopilación de datos de [!DNL Analytics] reenviar los datos de análisis del sitio en tiempo real a Audience Manager, en lugar de hacer que el código del lado del cliente envíe una visita adicional de la página a AAM. Este tutorial le guiará por los pasos para realizar el cambio de la implementación de DIL del lado del cliente más antigua al método de reenvío del lado del servidor más reciente.
+Este tutorial se aplica si tiene Adobe Audience Manager (AAM) y Adobe Analytics, y está enviando una visita de la página a AAM mediante el código DIL ([!DNL Data Integration Library]), y también enviando una visita de la página a Adobe Analytics. Dado que tiene ambas soluciones y que ambas forman parte de Adobe Experience Cloud, tiene la oportunidad de seguir las prácticas recomendadas de activar el reenvío del lado del servidor, lo que permite a los servidores de recopilación de datos de [!DNL Analytics] reenviar los datos de análisis del sitio en tiempo real a Audience Manager, en lugar de hacer que el código del lado del cliente envíe una visita adicional de la página a AAM. Este tutorial le guiará por los pasos para realizar el cambio de la implementación de DIL del lado del cliente más antigua al método de reenvío del lado del servidor más reciente.
 
 ## Lado del cliente (DIL) frente a lado del servidor {#client-side-dil-vs-server-side}
 
@@ -92,7 +105,7 @@ Los siguientes pasos describen la implementación.
 
 El requisito previo principal para pasar al reenvío del lado del servidor es tener implementado el servicio de Experience Cloud ID. Esto se hace más fácilmente si utiliza Experience Platform Launch, en cuyo caso solo tiene que instalar la extensión ECID y hará el resto.
 
-Si usa un sistema de administración de etiquetas que no es de Adobe o no usa ningún sistema de administración de etiquetas, implemente ECID para ejecutar **antes** de cualquier otra solución de Adobe. Consulte la [documentación de ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) para obtener más información. El único otro requisito previo es con respecto a las versiones del código, por lo que al aplicar las versiones más recientes del código en los siguientes pasos, estará bien.
+Si usa un sistema de administración de etiquetas que no es de Adobe o no usa ningún sistema de administración de etiquetas, implemente ECID para ejecutar **antes** de cualquier otra solución de Adobe. Consulte la [documentación de ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) para obtener más información. El único otro requisito previo es con respecto a las versiones del código, por lo que al aplicar las versiones más recientes del código en los siguientes pasos, estará bien.
 
 >[!NOTE]
 >
@@ -145,7 +158,7 @@ Pero la pregunta es, ¿cuál haces primero? ¿Importa? Vale, lo siento, fueron d
 
 La razón por la que el tiempo y el orden son importantes es por el modo en que funciona el reenvío de _realmente_, lo cual se puede resumir en los siguientes hechos técnicos:
 
-* Si tiene implementado el Servicio de Experience Cloud ID (ECID) y el conmutador en [!DNL Analytics] [!DNL Admin Console] (&quot;el conmutador&quot;) está activado, los datos SE REENVIARÁN de [!DNL Analytics] a AAM, aunque aún no haya actualizado el código.
+* Si tiene implementado el Servicio de Experience Cloud ID (ECID) y el conmutador de [!DNL Analytics] [!DNL Admin Console] (&quot;el conmutador&quot;) está activado, los datos SE REENVIARÁN de [!DNL Analytics] a AAM, aunque aún no haya actualizado el código.
 * Si no tiene implementado ECID, los datos no se reenviarán, aunque tenga el conmutador encendido y el código de reenvío del lado del servidor.
 * El código de reenvío del lado del servidor (ya sea en etiquetas de Platform o en la página) realmente gestiona la respuesta y es necesario para completar la migración.
 * Recuerde que el conmutador de reenvío del lado del servidor está habilitado por [!UICONTROL report suite], pero que el código lo gestiona la propiedad en etiquetas de Platform o el archivo [!DNL AppMeasurement] si no utiliza etiquetas de Platform.
@@ -220,4 +233,4 @@ Si no reenvía datos del lado del servidor de [!DNL Analytics] a Audience Manage
 
 ![falso éxito](assets/falsesuccess.png)
 
-Para obtener más información acerca del reenvío del lado del servidor, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=es).
+Para obtener más información acerca del reenvío del lado del servidor, consulte la [documentación](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

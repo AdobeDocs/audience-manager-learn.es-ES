@@ -3,7 +3,7 @@ title: Migración del servidor de seguimiento al reenvío del lado de servidor e
 description: Obtenga información sobre cómo habilitar el reenvío de datos de Adobe Analytics del lado del servidor a Audience Manager en el nivel de grupo de informes en lugar de en el nivel de servidor de seguimiento.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,25 +11,34 @@ kt: 1776
 role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-TQID: https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec
+TQID: 'https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Measurement
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 608
+source-wordcount: '608'
 ht-degree: 0%
-
 ---
-
 # Migración del servidor de seguimiento al reenvío del lado de servidor en el nivel de grupo de informes {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
 Este artículo y vídeo le mostrarán cómo habilitar el reenvío de datos de [!DNL Analytics] del lado del servidor a Audience Manager en un nivel [!UICONTROL report suite] en lugar de en un nivel [!UICONTROL tracking server].
@@ -46,13 +55,13 @@ Su [!UICONTROL tracking server] es la ubicación a la que está enviando sus dat
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-Si el reenvío del lado del servidor está configurado para el reenvío en el nivel [!UICONTROL tracking server], cualquier visita que se envíe a este [!UICONTROL tracking server] (SI el servicio de Experience Cloud ID también está habilitado) se reenviará a Audience Manager. Esto tenía que habilitarlo el Servicio de atención al cliente de Adobe o Adobe Consulting. También son ellos los que pueden deshabilitarlo, DESPUÉS de haber cambiado al reenvío de [!UICONTROL report suite], como se describe a continuación.
+Si el reenvío del lado del servidor está configurado para el reenvío en el nivel [!UICONTROL tracking server], cualquier visita que se envíe a este [!UICONTROL tracking server] (SI el Servicio de Experience Cloud ID también está habilitado) se reenviará a Audience Manager. Esto tenía que habilitarlo el Servicio de atención al cliente de Adobe o Adobe Consulting. También son ellos los que pueden deshabilitarlo, DESPUÉS de haber cambiado al reenvío de [!UICONTROL report suite], como se describe a continuación.
 
 Si no está seguro de si [!DNL tracking server forwarding] está habilitado para usted, póngase en contacto con el Servicio de atención al cliente de Adobe o con Adobe Consulting para que se lo indiquen.
 
 ## Reenvío del lado del servidor de nivel [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Una de las mayores ventajas de pasar al reenvío de [!UICONTROL report suite] desde el reenvío de [!UICONTROL tracking server] es que ahora podrá usar &quot;Audience Analytics&quot;, que es la capacidad de reenviar Audience Manager [!UICONTROL segments] de nuevo a Adobe Analytics para un análisis detallado de los segmentos. Esta excelente característica NO se admite si sigue reenviando [!UICONTROL tracking server] y no [!UICONTROL report suite]. Encontrará más información sobre Audience Analytics en [documentación](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es).
+Una de las mayores ventajas de pasar al reenvío de [!UICONTROL report suite] desde el reenvío de [!UICONTROL tracking server] es que ahora podrá usar &quot;Audience Analytics&quot;, que es la capacidad de reenviar Audience Manager [!UICONTROL segments] de nuevo a Adobe Analytics para un análisis detallado de los segmentos. Esta excelente característica NO se admite si sigue reenviando [!UICONTROL tracking server] y no [!UICONTROL report suite]. Encontrará más información sobre Audience Analytics en [documentación](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

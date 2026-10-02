@@ -10,29 +10,44 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+TQID: 'https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
   - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+    internal-label: APIs and SDKs
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
 subfeature_v2:
   - id: d8f681b8-67cc-42dc-85c5-a0977528a942
+    internal-label: Data Collection Server
   - id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+    internal-label: SDKs
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 788
+source-wordcount: '788'
 ht-degree: 1%
-
 ---
-
 # Validación de ID de dispositivo global {#global-device-id-validation}
 
 Los identificadores Advertising de dispositivos (es decir, iDFA, GAID, Roku ID) tienen estándares de formato que deben cumplirse para poder utilizarse en el ecosistema de la publicidad digital. Hoy en día, los clientes y socios pueden cargar ID en nuestras fuentes de datos globales en cualquier formato sin recibir notificación de si el ID tiene el formato correcto. Esta función introduce la validación de los ID de dispositivo enviados a las fuentes de datos globales para un formato adecuado y proporciona mensajes de error cuando los ID tienen un formato incorrecto. Se admitirá la validación de [!DNL iDFA], [!DNL Google Advertising] y [!DNL Roku IDs] en el momento del lanzamiento.
@@ -105,13 +120,13 @@ Cuando se envía un ID de dispositivo global incorrecto (IDFA, GAID, etc.) en ti
 
 ![imagen de error](assets/image_4_.png)
 
-Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=es#api-and-sdk-code) para obtener la lista de códigos de error.
+Consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) para obtener la lista de códigos de error.
 
 ## Incorporación de ID de dispositivo globales {#onboarding-global-device-ids}
 
-Además del envío en tiempo real de los ID de dispositivos globales, también puede &quot;[!DNL onboard]&quot; (cargar) datos con los ID. Este proceso es el mismo que cuando se incorporan datos con los ID de cliente (normalmente a través de pares clave/valor), pero simplemente se usan los ID de Source de datos adecuados para que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=es#implementation-integration-guides). Recuerde utilizar el ID de fuente de datos global en función de la plataforma que utilice.
+Además del envío en tiempo real de los ID de dispositivos globales, también puede &quot;[!DNL onboard]&quot; (cargar) datos con los ID. Este proceso es el mismo que cuando se incorporan datos con los ID de cliente (normalmente a través de pares clave/valor), pero simplemente se usan los ID de Source de datos adecuados para que los datos se asignen al ID de dispositivo global. La documentación sobre el proceso de incorporación se encuentra en [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Recuerde utilizar el ID de fuente de datos global en función de la plataforma que utilice.
 
-Si se envían ID de dispositivo globales incorrectos a través del proceso de incorporación, los errores se mostrarán en [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=es#reporting).
+Si se envían ID de dispositivo globales incorrectos a través del proceso de incorporación, los errores se mostrarán en [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
 
 A continuación se muestra un ejemplo de un error que llegaría a través de ese informe:
 
