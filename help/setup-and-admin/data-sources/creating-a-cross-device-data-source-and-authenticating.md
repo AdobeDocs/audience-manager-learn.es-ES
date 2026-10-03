@@ -2,7 +2,7 @@
 title: Crear una fuente de datos entre dispositivos para la autenticación
 description: Obtenga información sobre cómo crear una fuente de datos entre dispositivos para la autenticación. Consulte cómo introducir los datos de CRM de origen en Audience Manager para un mejor direccionamiento de los clientes y configurar el método setCustomerIDs() en las etiquetas de Platform para inicios de sesión.
 feature: Data Sources
-topics: null
+topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,20 +11,27 @@ kt: 7025
 role: User
 level: Intermediate
 exl-id: 467d0793-c08c-4165-9d4a-db9617db6e92
-TQID: https://experienceleague.adobe.com/F9cDe9frICLshsFGYW2MpDmsUCKTPh3AqM2UkqKgTjA
+TQID: 'https://experienceleague.adobe.com/F9cDe9frICLshsFGYW2MpDmsUCKTPh3AqM2UkqKgTjA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+feature_v2:
+  - id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+    internal-label: Audience Marketplace
+subfeature_v2:
+  - id: d921db59-bd4a-43dc-97e6-4ff4611f1ae8
+    internal-label: Data sources
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Intermediate
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 110
+source-wordcount: '110'
 ht-degree: 0%
-
 ---
-
 # Creación de una fuente de datos entre dispositivos y autenticación
 
 Si desea llevar los datos de CRM de origen a Audience Manager para un mejor direccionamiento de los clientes, primero debe crear una fuente de datos entre dispositivos para almacenar los datos y los ID de CRM. Esto muestra cómo hacerlo y configurar el método `setCustomerIDs()` en las etiquetas de Experience Platform para los inicios de sesión.

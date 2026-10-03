@@ -7,32 +7,45 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 1148
+source-wordcount: '1148'
 ht-degree: 0%
-
 ---
-
 # Compatibilidad con IAB TCF 2.2 en Audience Manager {#iab-tcf-support-in-audience-manager}
 
 Adobe le proporciona los medios para administrar y comunicar las opciones de privacidad de los usuarios a través de la funcionalidad de inclusión y a través del complemento de Audience Manager a la asistencia de IAB Transparency and Consent Framework 2.2 (TCF 2.2). Este artículo trabaja junto con la documentación para ayudarle a comprender el complemento de Audience Manager para IAB TCF y cómo funciona junto con el objeto de inclusión de Adobe y su proveedor de administración de consentimiento (CMP). Para obtener más información sobre IAB, visite su sitio web en [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
 
 ## Primer paso: Comprender la inclusión de Experience Cloud ID {#first-step-understand-ecid-s-opt-in}
 
-Para comprender cómo se trabaja con el TCF de IAB, primero debe comprender la funcionalidad [!DNL Opt-in], que forma parte de la biblioteca del servicio Experience Cloud ID (ECID). Si no está familiarizado con el funcionamiento de la inclusión, vea [este útil artículo](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=es) primero. También debería revisar la [documentación](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=es) de Opt-in. Una vez que haya pasado por esos recursos, vuelva a esta página y continúe.
+Para comprender cómo se trabaja con el TCF de IAB, primero debe comprender la funcionalidad [!DNL Opt-in], que forma parte de la biblioteca del Servicio de Experience Cloud ID (ECID). Si no está familiarizado con el funcionamiento de la inclusión, vea [este útil artículo](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=es) primero. También debería revisar la [documentación](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=es) de Opt-in. Una vez que haya pasado por esos recursos, vuelva a esta página y continúe.
 
 ## El complemento de Audience Manager para el TCF de IAB {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -46,7 +59,7 @@ Activar el complemento de Audience Manager para el TCF de IAB es fácil si utili
 
 >[!VIDEO](https://video.tv.adobe.com/v/38264/?captions=spa&quality=12)
 
-Alternativamente, si no está utilizando Launch, puede utilizar `isIabContext=true` para habilitarlo al crear una instancia del visitante de Experience Cloud. Esto inicia el flujo TCF de IAB, es decir, añade otro paso a la recopilación de consentimiento, utilizando el TCF de IAB para consultar la cadena IAB TC y la devuelve al servicio de inclusión, que a su vez se comunica con las soluciones de Experience Cloud.
+Alternativamente, si no está utilizando Launch, puede utilizar `isIabContext=true` para habilitarlo cuando cree una instancia del visitante de Experience Cloud. Esto inicia el flujo TCF de IAB, es decir, añade otro paso a la recopilación de consentimiento, utilizando el TCF de IAB para consultar la cadena IAB TC y la devuelve al servicio de inclusión, que a su vez se comunica con las soluciones de Experience Cloud.
 
 ## Cadena IAB TC {#iab-tcf-consent-string}
 
