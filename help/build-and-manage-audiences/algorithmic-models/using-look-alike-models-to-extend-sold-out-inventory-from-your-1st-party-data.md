@@ -14,20 +14,24 @@ exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
 TQID: https://experienceleague.adobe.com/xFz82Q0MZ-ZyErTuOZPm66xUSe3uLbAGJ3xMiUBun8A
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: 891
+source-wordcount: '891'
 ht-degree: 0%
-
 ---
-
 # Utilice modelos de similitud para ampliar el inventario agotado de datos de origen {#using-look-alike-models-to-extend-sold-out-inventory-from-your-st-party-data}
 
 En este tutorial, explicaremos los pasos que debe seguir para configurar y utilizar la similitud de [!UICONTROL Models] con el fin de crear nuevas audiencias de similitud y venderlas como una extensión para el segmento de conversión.
@@ -52,9 +56,9 @@ En este caso de uso, esto ya se supone, porque ha vendido el inventario para las
 
 Además, cuando se utilizan eventos para crear características, hay una clave importante que debe tenerse en cuenta para que no se recopilen más usuarios de los que deberían en la característica. Vea el siguiente vídeo para la gran revelación. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/328096/?captions=spa&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=es)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM mediante nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=es)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
+**NOTA:** En el vídeo anterior, el ejemplo que se muestra supone que tiene Adobe Analytics. Obviamente, este puede no ser el caso. Si tienes Google Analytics (GA), tenemos un módulo que puedes usar para enviar datos a AAM (consulta la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)), y si tu actividad de conversión en tu sitio se envía a AAM por GA, puedes crear tu rasgo de conversión a partir de eso. Si tiene una solución de análisis diferente (o no tiene ninguna solución de análisis), aún puede enviar datos a AAM mediante nuestro código DIL y la función `submit`, etc. (consulte la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). A continuación, vuelva a crear la característica de conversión en función de los datos enviados cuando la actividad de conversión se realiza en el sitio.
 
 ## Crear un modelo de similitud a partir de datos de origen {#creating-a-look-alike-model-from-first-party-data}
 
@@ -62,13 +66,13 @@ En este paso, vamos a crear un modelo de similitud de [!UICONTROL First Party]. 
 
 En este caso de uso, esto es importante, ya que estamos intentando crear un segmento de usuarios en nuestro sitio que se parecen a los convertidores, pero que aún no se han convertido, de modo que podamos vender este segmento de similitud a anunciantes interesados.
 
->[!VIDEO](https://video.tv.adobe.com/v/328111/?captions=spa&quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## Crear un rasgo algorítmico {#creating-an-algorithmic-trait}
 
 A continuación, tendremos que crear un [!UICONTROL Algorithmic Trait] para poder usar los resultados del modelo. Sin crear un rasgo, el modelo es inútil. Así que después de ejecutar el modelo, asegúrese de ir al cuadro de diálogo de características y crear un [!UICONTROL Algorithmic Trait]. El siguiente vídeo lo analiza y muestra un par de sugerencias.
 
->[!VIDEO](https://video.tv.adobe.com/v/30107/?captions=spa&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## Ofrecer [!UICONTROL Algorithmic Segment] a los anunciantes {#offering-the-algorithmic-segment-to-advertisers}
 
