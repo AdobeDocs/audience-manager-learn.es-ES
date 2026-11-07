@@ -46,4 +46,4 @@ ht-degree: 0%
 
 Durante esta sesión explicaremos qué es un DMP y mostraremos algunos casos prácticos del mundo real en los que los clientes han visto rendimientos sorprendentes en su inversión, desde compras de medios más eficientes hasta conversiones significativamente mayores.
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507553/?captions=spa&quality=12)

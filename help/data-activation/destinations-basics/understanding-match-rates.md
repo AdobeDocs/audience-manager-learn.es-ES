@@ -41,6 +41,6 @@ ht-degree: 0%
 
 Este vídeo le ayuda a comprender las tasas de coincidencia en Adobe Audience Manager, qué son y cómo se calculan. También aprenderá algunas prácticas recomendadas, así como qué puede causar una tasa de coincidencia baja.
 
->[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507444/?captions=spa&quality=12)
 
 Para obtener más información, visite la [documentación](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=es).
