@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Utilice la herramienta BAAAM de Audience Manager para crear y administrar segmentos de forma masiva, colocarlos en carpetas, añadir características a la regla de segmento, asignarlos a destinos, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507495/?captions=spa&quality=12&learn=on)
 
 >[!IMPORTANT]
 >

@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear estructuras de carpetas que tengan sus características en Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507673/?captions=spa&quality=12&learn=on)

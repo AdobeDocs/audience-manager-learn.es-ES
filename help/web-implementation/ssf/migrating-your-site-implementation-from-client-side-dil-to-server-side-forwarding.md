@@ -141,7 +141,7 @@ Vea el siguiente vídeo para obtener información sobre cómo mover opciones de 
 
 Hasta ahora, en este tutorial hemos invertido todo nuestro tiempo en cambiar el código del código de DIL del lado del cliente al reenvío del lado del servidor. Eso está bien, porque es la parte más difícil. Esta sección, aunque verá que es muy fácil, es tan importante como actualizar el código. En este vídeo, verá cómo voltear el conmutador que habilita el reenvío real de datos de Analytics a Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507520/?captions=spa&quality-12)
 
 **NOTA:** Como se indica en el vídeo, recuerde que la activación del reenvío tardará hasta 4 horas en implementarse completamente en el servidor de Experience Cloud.
 
@@ -222,7 +222,7 @@ La manera principal de comprobar que el reenvío del lado del servidor funciona 
 
 Si no reenvía datos del lado del servidor de [!DNL Analytics] a Audience Manager, no hay respuesta a la señalización [!DNL Analytics] (más allá de un píxel 2x2). Sin embargo, si está reenviando el lado del servidor, puede comprobar ciertos elementos en la solicitud y la respuesta de [!DNL Analytics] que le permiten saber que [!DNL Analytics] se está comunicando correctamente con Audience Manager, reenviando la visita y obteniendo una respuesta.
 
->[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507420/?captions=spa&quality=12)
 
 >[!WARNING]
 >
